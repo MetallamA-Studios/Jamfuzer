@@ -28,14 +28,5 @@ public class SaveData
     public PlayerProfile profile;
 
 
-    public void OnLoadGame()
-    {
-        current = (SaveData)SerializationManager.Load
-                       (Application.persistentDataPath + "/saves/" + current.profile.playerName + ".save");
-    }
-
-    public void OnSaveGame()
-    {
-        SerializationManager.Save(current.profile.playerName, this);
-    }
+    
 }
