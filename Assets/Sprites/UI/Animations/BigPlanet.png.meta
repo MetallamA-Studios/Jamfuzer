@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: e1d9a22bbb1a5894c899a3f08e2e2e5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2205295610378067164
+    second: BigPlanet_60x60_0
+  - first:
+      213: 8904352484247220847
+    second: BigPlanet_60x60_1
+  - first:
+      213: -4569062384351056023
+    second: BigPlanet_60x60_2
+  - first:
+      213: 6290189917682273232
+    second: BigPlanet_60x60_3
+  - first:
+      213: -4378824283985928566
+    second: BigPlanet_60x60_4
+  - first:
+      213: 724232037546381667
+    second: BigPlanet_60x60_5
+  - first:
+      213: -39313525764828674
+    second: BigPlanet_60x60_6
+  - first:
+      213: 7137722154125894229
+    second: BigPlanet_60x60_7
+  - first:
+      213: -8430413429429356219
+    second: BigPlanet_60x60_8
+  - first:
+      213: 2813500600858967753
+    second: BigPlanet_60x60_9
+  - first:
+      213: -7079031251415882057
+    second: BigPlanet_60x60_10
+  - first:
+      213: 8891715192956921250
+    second: BigPlanet_60x60_11
+  - first:
+      213: -7247479705787635511
+    second: BigPlanet_60x60_12
+  - first:
+      213: 5341568029773525742
+    second: BigPlanet_60x60_13
+  - first:
+      213: 2709121449696618189
+    second: BigPlanet_60x60_14
+  - first:
+      213: 5274803770743743769
+    second: BigPlanet_60x60_15
+  - first:
+      213: 6348605296144594817
+    second: BigPlanet_60x60_16
+  - first:
+      213: 341840582106036730
+    second: BigPlanet_60x60_17
+  - first:
+      213: 3086481658853789075
+    second: BigPlanet_60x60_18
+  - first:
+      213: -1614643945751819323
+    second: BigPlanet_60x60_19
+  - first:
+      213: -6777881556330771194
+    second: BigPlanet_60x60_20
+  - first:
+      213: 5742834362564015876
+    second: BigPlanet_60x60_21
+  - first:
+      213: -2359235876910659595
+    second: BigPlanet_60x60_22
+  - first:
+      213: 7457578648156230083
+    second: BigPlanet_60x60_23
+  - first:
+      213: 995050754065459630
+    second: BigPlanet_60x60_24
+  - first:
+      213: -2375815585109137961
+    second: BigPlanet_60x60_25
+  - first:
+      213: 687495518582294595
+    second: BigPlanet_60x60_26
+  - first:
+      213: 8005928963675889275
+    second: BigPlanet_60x60_27
+  - first:
+      213: 611836000533268883
+    second: BigPlanet_60x60_28
+  - first:
+      213: -1709580811599291717
+    second: BigPlanet_60x60_29
+  - first:
+      213: 2746719930897366143
+    second: BigPlanet_60x60_30
+  - first:
+      213: -9093896509003017311
+    second: BigPlanet_60x60_31
+  - first:
+      213: -6297813145247904750
+    second: BigPlanet_60x60_32
+  - first:
+      213: -6565054165691681798
+    second: BigPlanet_60x60_33
+  - first:
+      213: 4518969003136460555
+    second: BigPlanet_60x60_34
+  - first:
+      213: -6986513248172008429
+    second: BigPlanet_60x60_35
+  - first:
+      213: -6803731722359706211
+    second: BigPlanet_60x60_36
+  - first:
+      213: 7785010199220031430
+    second: BigPlanet_60x60_37
+  - first:
+      213: -6298713601431518019
+    second: BigPlanet_60x60_38
+  - first:
+      213: -6404686509080143452
+    second: BigPlanet_60x60_39
+  - first:
+      213: 8018885425722058290
+    second: BigPlanet_60x60_40
+  - first:
+      213: -777358422187264529
+    second: BigPlanet_60x60_41
+  - first:
+      213: 502559965686008629
+    second: BigPlanet_60x60_42
+  - first:
+      213: -1909291196123126050
+    second: BigPlanet_60x60_43
+  - first:
+      213: -2766350521788636067
+    second: BigPlanet_60x60_44
+  - first:
+      213: 7607903146803461134
+    second: BigPlanet_60x60_45
+  - first:
+      213: 7855154665209651067
+    second: BigPlanet_60x60_46
+  - first:
+      213: 8720437493897776154
+    second: BigPlanet_60x60_47
+  - first:
+      213: 1949835737029788822
+    second: BigPlanet_60x60_48
+  - first:
+      213: -7801231035117763638
+    second: BigPlanet_60x60_49
+  - first:
+      213: 3371424327271790614
+    second: BigPlanet_60x60_50
+  - first:
+      213: -2963106091776671408
+    second: BigPlanet_60x60_51
+  - first:
+      213: 5490334675735523756
+    second: BigPlanet_60x60_52
+  - first:
+      213: -200260915112602303
+    second: BigPlanet_60x60_53
+  - first:
+      213: 8620272600748849986
+    second: BigPlanet_60x60_54
+  - first:
+      213: -8305604639157369076
+    second: BigPlanet_60x60_55
+  - first:
+      213: 3458590650333578415
+    second: BigPlanet_60x60_56
+  - first:
+      213: -6403576269869260934
+    second: BigPlanet_60x60_57
+  - first:
+      213: 4620172902950084995
+    second: BigPlanet_60x60_58
+  - first:
+      213: -3948862736923976888
+    second: BigPlanet_60x60_59
+  - first:
+      213: -6692422084745259131
+    second: BigPlanet_0
+  - first:
+      213: 8550599492211172387
+    second: BigPlanet_1
+  - first:
+      213: 1634194295576038216
+    second: BigPlanet_2
+  - first:
+      213: -4155058202437544267
+    second: BigPlanet_3
+  - first:
+      213: -6037259038137612509
+    second: BigPlanet_4
+  - first:
+      213: -733654558982405659
+    second: BigPlanet_5
+  - first:
+      213: -8297653365911481052
+    second: BigPlanet_6
+  - first:
+      213: 8034132041573643354
+    second: BigPlanet_7
+  - first:
+      213: -6960145694760735185
+    second: BigPlanet_8
+  - first:
+      213: 2725664665602644869
+    second: BigPlanet_9
+  - first:
+      213: 3713705182745740192
+    second: BigPlanet_10
+  - first:
+      213: 8078187721753747349
+    second: BigPlanet_11
+  - first:
+      213: -3223955306988427159
+    second: BigPlanet_12
+  - first:
+      213: -2164224285968697404
+    second: BigPlanet_13
+  - first:
+      213: -2643714825441219933
+    second: BigPlanet_14
+  - first:
+      213: -697880740510367814
+    second: BigPlanet_15
+  - first:
+      213: 5869549145279444112
+    second: BigPlanet_16
+  - first:
+      213: -675425807836092172
+    second: BigPlanet_17
+  - first:
+      213: 8195114372959016186
+    second: BigPlanet_18
+  - first:
+      213: 7278134982222897031
+    second: BigPlanet_19
+  - first:
+      213: 7672660305373712917
+    second: BigPlanet_20
+  - first:
+      213: 6691392348390006591
+    second: BigPlanet_21
+  - first:
+      213: 2721580609961161279
+    second: BigPlanet_22
+  - first:
+      213: 1083650003960801613
+    second: BigPlanet_23
+  - first:
+      213: 6384963131826157089
+    second: BigPlanet_24
+  - first:
+      213: 1229887995773414200
+    second: BigPlanet_25
+  - first:
+      213: 947453650922833787
+    second: BigPlanet_26
+  - first:
+      213: -5404275992181061323
+    second: BigPlanet_27
+  - first:
+      213: -8123415331486169372
+    second: BigPlanet_28
+  - first:
+      213: -7771118867001991436
+    second: BigPlanet_29
+  - first:
+      213: -3750172190960159008
+    second: BigPlanet_30
+  - first:
+      213: 7739788185385217363
+    second: BigPlanet_31
+  - first:
+      213: 7021529917312374109
+    second: BigPlanet_32
+  - first:
+      213: -2472257776052332568
+    second: BigPlanet_33
+  - first:
+      213: 6908263648771958417
+    second: BigPlanet_34
+  - first:
+      213: 3637153877239048215
+    second: BigPlanet_35
+  - first:
+      213: 2150308731803047983
+    second: BigPlanet_36
+  - first:
+      213: -5302143541110509747
+    second: BigPlanet_37
+  - first:
+      213: -2303972676915947083
+    second: BigPlanet_38
+  - first:
+      213: 1629709513637491521
+    second: BigPlanet_39
+  - first:
+      213: 4052960366999644109
+    second: BigPlanet_40
+  - first:
+      213: 9081064017979364886
+    second: BigPlanet_41
+  - first:
+      213: 4758766008255958696
+    second: BigPlanet_42
+  - first:
+      213: 5117013615323704295
+    second: BigPlanet_43
+  - first:
+      213: -958277996425846175
+    second: BigPlanet_44
+  - first:
+      213: -7492211161771743634
+    second: BigPlanet_45
+  - first:
+      213: 8064042993611334257
+    second: BigPlanet_46
+  - first:
+      213: 6656587415281165034
+    second: BigPlanet_47
+  - first:
+      213: -5193686732060622866
+    second: BigPlanet_48
+  - first:
+      213: 4670242168424418527
+    second: BigPlanet_49
+  - first:
+      213: -8527897238030913315
+    second: BigPlanet_50
+  - first:
+      213: -4980115382572078977
+    second: BigPlanet_51
+  - first:
+      213: 6411978440065014559
+    second: BigPlanet_52
+  - first:
+      213: -6007468495096314807
+    second: BigPlanet_53
+  - first:
+      213: 8409125938387686563
+    second: BigPlanet_54
+  - first:
+      213: 2407876255709121205
+    second: BigPlanet_55
+  - first:
+      213: -4128432141466438842
+    second: BigPlanet_56
+  - first:
+      213: 4955217018308449129
+    second: BigPlanet_57
+  - first:
+      213: 8022862349567747123
+    second: BigPlanet_58
+  - first:
+      213: 2417775065582796263
+    second: BigPlanet_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigPlanet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58797c7629dbf13a0800000000000000
+      internalID: -6692422084745259131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324e1e56fe4d9a670800000000000000
+      internalID: 8550599492211172387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b87c1bd03dda610800000000000000
+      internalID: 1634194295576038216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b613ae44944656c0800000000000000
+      internalID: -4155058202437544267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3278ace34e8573ca0800000000000000
+      internalID: -6037259038137612509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e10200d01981d5f0800000000000000
+      internalID: -733654558982405659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425958ff930d8dc80800000000000000
+      internalID: -8297653365911481052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54b4907688fe7f60800000000000000
+      internalID: 8034132041573643354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e62d6fd58986f90800000000000000
+      internalID: -6960145694760735185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b541a729183d520800000000000000
+      internalID: 2725664665602644869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3461a003bb98330800000000000000
+      internalID: 3713705182745740192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fdd00deec7b1070800000000000000
+      internalID: 8078187721753747349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9682833cab53243d0800000000000000
+      internalID: -3223955306988427159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7ff8c7a7127f1e0800000000000000
+      internalID: -2164224285968697404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa642e8f53af4bd0800000000000000
+      internalID: -2643714825441219933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abffa4ef921a056f0800000000000000
+      internalID: -697880740510367814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094341479d3d47150800000000000000
+      internalID: 5869549145279444112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f86ccb6ec760a6f0800000000000000
+      internalID: -675425807836092172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af49be54a15eab170800000000000000
+      internalID: 8195114372959016186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f5db28431210560800000000000000
+      internalID: 7278134982222897031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5125a0075e3ca7a60800000000000000
+      internalID: 7672660305373712917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f9d8a63e99cdc50800000000000000
+      internalID: 6691392348390006591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32735c252ff4c520800000000000000
+      internalID: 2721580609961161279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d492feaefe5e90f00800000000000000
+      internalID: 1083650003960801613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126b670b322fb9850800000000000000
+      internalID: 6384963131826157089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b679dad90711110800000000000000
+      internalID: 1229887995773414200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7707606318062d00800000000000000
+      internalID: 947453650922833787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53940e14e972005b0800000000000000
+      internalID: -5404275992181061323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e60ec3bbc4d34f80800000000000000
+      internalID: -8123415331486169372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe92094090772490800000000000000
+      internalID: -7771118867001991436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e67547f246b4fbc0800000000000000
+      internalID: -3750172190960159008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35da6a2f850496b60800000000000000
+      internalID: 7739788185385217363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d559e25124c717160800000000000000
+      internalID: 7021529917312374109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e71439b6a6c0bdd0800000000000000
+      internalID: -2472257776052332568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196ebcfdf251fdf50800000000000000
+      internalID: 6908263648771958417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718a44e4e24c97230800000000000000
+      internalID: 3637153877239048215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f289a84166e67dd10800000000000000
+      internalID: 2150308731803047983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fe9f39a800b66b0800000000000000
+      internalID: -5302143541110509747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9183cae05a600e0800000000000000
+      internalID: -2303972676915947083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143ff670b24ed9610800000000000000
+      internalID: 1629709513637491521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc720c3faf10f3830800000000000000
+      internalID: 4052960366999644109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616dd3e5c9b660e70800000000000000
+      internalID: 9081064017979364886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aecc43b8788a0240800000000000000
+      internalID: 4758766008255958696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebe434a5c8430740800000000000000
+      internalID: 5117013615323704295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162e6fa4d3383b2f0800000000000000
+      internalID: -958277996425846175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66e060d4a1560890800000000000000
+      internalID: -7492211161771743634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1726ea7a06c39ef60800000000000000
+      internalID: 8064042993611334257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae26b207cf2f06c50800000000000000
+      internalID: 6656587415281165034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeffddc3f615ce7b0800000000000000
+      internalID: -5193686732060622866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcccf7128800d040800000000000000
+      internalID: 4670242168424418527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0f12e05a2d6a980800000000000000
+      internalID: -8527897238030913315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f782551027313eab0800000000000000
+      internalID: -4980115382572078977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bd98b4b6cebf850800000000000000
+      internalID: 6411978440065014559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9440f6e8b3f21aca0800000000000000
+      internalID: -6007468495096314807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_54
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a41f1dcc7733b470800000000000000
+      internalID: 8409125938387686563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bac3a472be7a6120800000000000000
+      internalID: 2407876255709121205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643769837dcd4b6c0800000000000000
+      internalID: -4128432141466438842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_57
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963de31df9774c440800000000000000
+      internalID: 4955217018308449129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33467dbcccee65f60800000000000000
+      internalID: 8022862349567747123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPlanet_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edfbdabc99ad8120800000000000000
+      internalID: 2417775065582796263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 83a716b5763b4834c821a574f71c99d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
