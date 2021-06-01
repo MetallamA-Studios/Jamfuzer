@@ -9,24 +9,29 @@ public enum E_ITEM_TYPE
     Powerup
 }
 
+[CreateAssetMenu(fileName = "Item", menuName = "Items/Item", order = 2)]
 public class Item : ScriptableObject
 {
     #region Public Variables
     public E_ITEM_TYPE e_itemType;
 
-    public int i_attack;
+    public Sprite s_itemSprite;
 
-    public int i_defense;
+    public int i_itemAttackModifier;
 
-    public int i_accuracy;
+    public int i_itemDefenseModifier;
 
-    public int i_evasion;
+    public int i_itemAccuracyModifier;
+
+    public int i_itemEvasionModifier;
 
     public string s_itemDescription;
 
     public string s_itemUseName;
 
     public string s_weaponUseDescription;
+
+    public E_DAMAGE_TYPES dt_itemDamageType;
     #endregion
 
     public void Use_Item()

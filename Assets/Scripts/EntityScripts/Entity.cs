@@ -2,18 +2,20 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[System.Serializable]
+[System.Serializable, CreateAssetMenu(fileName = "Entity", menuName = "Entity", order = 1)]
 public class Entity : ScriptableObject
 {
     #region Public Variables
     public string s_entityName;
+
+    public Sprite s_entitySprite;
 
     public int i_entityHealth;
 
     public int i_entityLevel;
 
     public int i_entityExperience;
-
+    
     public Dictionary<string, int> d_entityStats = new Dictionary<string, int>();
 
     public Weapon w_leftHand = null, w_rightHand = null;
@@ -29,6 +31,5 @@ public class Entity : ScriptableObject
         d_entityStats.Add("Accuracy", 0);
         d_entityStats.Add("Evasion", 0);
     }
-
 }
 
