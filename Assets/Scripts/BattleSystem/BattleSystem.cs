@@ -14,9 +14,10 @@ public enum BattleState
 
 public class BattleSystem : MonoBehaviour
 {
+    #region Public Variables
     public BattleState currentState;
+    #endregion
 
-    
 
     void StartCombat(PlayerProfile player, PlayerProfile[] enemies)
     {

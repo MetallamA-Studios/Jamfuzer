@@ -5,7 +5,11 @@ using UnityEngine;
 [System.Serializable]
 public class PlayerProfile
 {
-    public string playerName;
-    public int currency;
-    public int experienceLevel;
+    #region Public Variables
+    public string s_playerName;
+    public int i_currency;
+    public int i_experienceLevel;
+
+    public Entity e_playerEntity;
+    #endregion
 }
