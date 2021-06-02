@@ -25,7 +25,7 @@ TextureImporter:
     second: Retro_UI_Boss
   - first:
       213: 4910948672273908177
-    second: Retro_UI_7
+    second: Retro_UI_Boss
   - first:
       213: -4299386148690529830
     second: Retro_UI_8
@@ -50,6 +50,129 @@ TextureImporter:
   - first:
       213: 1880018614188248029
     second: Retro_UI_Boss
+  - first:
+      213: -7716315032090517703
+    second: Retro_UI_Note
+  - first:
+      213: 2102796622713297526
+    second: Retro_UI_Shop
+  - first:
+      213: -4283154902301613343
+    second: Retro_UI_Mystery
+  - first:
+      213: -8009711945035342468
+    second: Retro_UI_TinyEnemy
+  - first:
+      213: -2755604800029845853
+    second: Retro_UI_MediumEnemy
+  - first:
+      213: 6070165011988577950
+    second: Retro_UI_Elite
+  - first:
+      213: 1880018614188248029
+    second: Retro_UI_6
+  - first:
+      213: -945486575519374325
+    second: Retro_UI_BoxDetailed
+  - first:
+      213: -2186691855310721714
+    second: Retro_UI_11
+  - first:
+      213: -1821406573902943286
+    second: Retro_UI_HealIcon
+  - first:
+      213: -5455980265852291699
+    second: Retro_UI_13
+  - first:
+      213: -6201088920771340406
+    second: Retro_UI_14
+  - first:
+      213: -8678022716510072198
+    second: Retro_UI_15
+  - first:
+      213: -3888920392939399239
+    second: Retro_UI_16
+  - first:
+      213: -7488025785853338695
+    second: Retro_UI_17
+  - first:
+      213: -7027784973415619089
+    second: Retro_UI_18
+  - first:
+      213: -220541118764411744
+    second: Retro_UI_19
+  - first:
+      213: -1412940241415301401
+    second: Retro_UI_20
+  - first:
+      213: -4598094506426101446
+    second: Retro_UI_21
+  - first:
+      213: -7691157751619152321
+    second: Retro_UI_22
+  - first:
+      213: -4742053152164001648
+    second: Retro_UI_Box
+  - first:
+      213: 727764346643468367
+    second: Retro_UI_24
+  - first:
+      213: -225767258031768325
+    second: Retro_UI_Highlighted
+  - first:
+      213: 2887593537019633947
+    second: Retro_UI_26
+  - first:
+      213: 8136271754731710318
+    second: Retro_UI_27
+  - first:
+      213: 1165391610396542184
+    second: Retro_UI_28
+  - first:
+      213: -4817249921278669397
+    second: Retro_UI_HealthBackground
+  - first:
+      213: 8394507217746873023
+    second: Retro_UI_30
+  - first:
+      213: -1600555714384747953
+    second: Retro_UI_HealthBar
+  - first:
+      213: -5850906576910152239
+    second: Retro_UI_32
+  - first:
+      213: -4436048588475657906
+    second: Retro_UI_33
+  - first:
+      213: 321891433618455365
+    second: Retro_UI_34
+  - first:
+      213: 4358978012802038444
+    second: Retro_UI_35
+  - first:
+      213: -527715973960638201
+    second: Retro_UI_36
+  - first:
+      213: -6286118569058413966
+    second: Retro_UI_37
+  - first:
+      213: -7515016453175316650
+    second: Retro_UI_38
+  - first:
+      213: -3234329654899564292
+    second: Retro_UI_39
+  - first:
+      213: -1523164321896765176
+    second: Retro_UI_40
+  - first:
+      213: -3793447360199386226
+    second: Retro_UI_41
+  - first:
+      213: 1067454514229812054
+    second: Retro_UI_42
+  - first:
+      213: -786987486728413982
+    second: Retro_UI_43
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -175,11 +298,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 144
+        y: 304
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -196,11 +319,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 144
+        y: 304
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -217,11 +340,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 144
+        y: 304
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -238,11 +361,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 144
+        y: 304
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -255,36 +378,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Retro_UI_MediumEnemy
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 491914002c3133ca0800000000000000
-      internalID: -6038460951424822892
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Retro_UI_EliteEnemy
+      name: Retro_UI_Elite
       rect:
         serializedVersion: 2
         x: 80
-        y: 128
+        y: 288
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -297,22 +399,169 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Retro_UI_Boss
+      name: Retro_UI_MediumEnemy
       rect:
         serializedVersion: 2
-        x: 112
-        y: 112
-        width: 48
-        height: 48
+        x: 64
+        y: 304
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddb00d508fa271a10800000000000000
-      internalID: 1880018614188248029
+      spriteID: 3a61cd0c80022c9d0800000000000000
+      internalID: -2755604800029845853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_UI_Boss
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d100115cc1372440800000000000000
+      internalID: 4910948672273908177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_UI_BoxDetailed
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 9, y: 11, z: 9, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04644e08f4f0e2f0800000000000000
+      internalID: -945486575519374325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_UI_HealIcon
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb24fa0f5019b6e0800000000000000
+      internalID: -1821406573902943286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_UI_Box
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0984e3758c7d03eb0800000000000000
+      internalID: -4742053152164001648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_UI_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc3a1fffd9eddcf0800000000000000
+      internalID: -225767258031768325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_UI_HealthBackground
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad08ef28b0b52db0800000000000000
+      internalID: -4817249921278669397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_UI_HealthBar
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4220e0de0fa9c9e0800000000000000
+      internalID: -1600555714384747953
       vertices: []
       indices: 
       edges: []
