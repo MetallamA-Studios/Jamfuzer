@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: a6823cf8857db104f8450092035cae40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4947454486370079174
+    second: HugePlanet_80x80_0
+  - first:
+      213: 5781316092700150661
+    second: HugePlanet_80x80_1
+  - first:
+      213: -5423154026389021213
+    second: HugePlanet_80x80_2
+  - first:
+      213: 3138537967595836380
+    second: HugePlanet_80x80_3
+  - first:
+      213: -8888365377509872291
+    second: HugePlanet_80x80_4
+  - first:
+      213: 371210347738434038
+    second: HugePlanet_80x80_5
+  - first:
+      213: 3267073740923153229
+    second: HugePlanet_80x80_6
+  - first:
+      213: -6904320917342726072
+    second: HugePlanet_80x80_7
+  - first:
+      213: -3864476704749881433
+    second: HugePlanet_80x80_8
+  - first:
+      213: -2764426939895299313
+    second: HugePlanet_80x80_9
+  - first:
+      213: 5245615001003114056
+    second: HugePlanet_80x80_10
+  - first:
+      213: 5648422353260995834
+    second: HugePlanet_80x80_11
+  - first:
+      213: -8881053588496276163
+    second: HugePlanet_80x80_12
+  - first:
+      213: -5398427275154330423
+    second: HugePlanet_80x80_13
+  - first:
+      213: -1832303572497379358
+    second: HugePlanet_80x80_14
+  - first:
+      213: 94572690752797458
+    second: HugePlanet_80x80_15
+  - first:
+      213: 1306399960793267175
+    second: HugePlanet_80x80_16
+  - first:
+      213: 7522463734057038676
+    second: HugePlanet_80x80_17
+  - first:
+      213: -6560285798273756785
+    second: HugePlanet_80x80_18
+  - first:
+      213: 1071939593410125093
+    second: HugePlanet_80x80_19
+  - first:
+      213: 1685829026924774207
+    second: HugePlanet_80x80_20
+  - first:
+      213: 2898164705784938148
+    second: HugePlanet_80x80_21
+  - first:
+      213: 4456603130470232205
+    second: HugePlanet_80x80_22
+  - first:
+      213: -7610045273848395116
+    second: HugePlanet_80x80_23
+  - first:
+      213: 2632618007167780308
+    second: HugePlanet_80x80_24
+  - first:
+      213: 7174523679539688305
+    second: HugePlanet_80x80_25
+  - first:
+      213: 2431054101592816797
+    second: HugePlanet_80x80_26
+  - first:
+      213: 539943987522758484
+    second: HugePlanet_80x80_27
+  - first:
+      213: 7012778067612840949
+    second: HugePlanet_80x80_28
+  - first:
+      213: 8583257415271346228
+    second: HugePlanet_80x80_29
+  - first:
+      213: 9043711581707004780
+    second: HugePlanet_80x80_30
+  - first:
+      213: -2307871437264097055
+    second: HugePlanet_80x80_31
+  - first:
+      213: -6442149590533600235
+    second: HugePlanet_80x80_32
+  - first:
+      213: -9016863965405823611
+    second: HugePlanet_80x80_33
+  - first:
+      213: -8141616941881114823
+    second: HugePlanet_80x80_34
+  - first:
+      213: -2975986227560075936
+    second: HugePlanet_80x80_35
+  - first:
+      213: -729231258409443224
+    second: HugePlanet_80x80_36
+  - first:
+      213: 2220015979503465195
+    second: HugePlanet_80x80_37
+  - first:
+      213: 5624306279870970777
+    second: HugePlanet_80x80_38
+  - first:
+      213: -8896533846653305152
+    second: HugePlanet_80x80_39
+  - first:
+      213: -3870486103320861839
+    second: HugePlanet_80x80_40
+  - first:
+      213: -7242832899822879948
+    second: HugePlanet_80x80_41
+  - first:
+      213: 5244688575325341382
+    second: HugePlanet_80x80_42
+  - first:
+      213: -3916050580989293788
+    second: HugePlanet_80x80_43
+  - first:
+      213: 8051775362233835261
+    second: HugePlanet_80x80_44
+  - first:
+      213: -5848467684039760797
+    second: HugePlanet_80x80_45
+  - first:
+      213: -134172656791300967
+    second: HugePlanet_80x80_46
+  - first:
+      213: 3193945821541168689
+    second: HugePlanet_80x80_47
+  - first:
+      213: -2172263214134530135
+    second: HugePlanet_80x80_48
+  - first:
+      213: -7565550204798755764
+    second: HugePlanet_80x80_49
+  - first:
+      213: 6048186231862668025
+    second: HugePlanet_80x80_50
+  - first:
+      213: 142320520068448575
+    second: HugePlanet_80x80_51
+  - first:
+      213: 8222009963641797514
+    second: HugePlanet_80x80_52
+  - first:
+      213: -5535963299406558596
+    second: HugePlanet_80x80_53
+  - first:
+      213: 1335810102295413633
+    second: HugePlanet_80x80_54
+  - first:
+      213: -8699428392582328958
+    second: HugePlanet_80x80_55
+  - first:
+      213: 7985526083941307235
+    second: HugePlanet_80x80_56
+  - first:
+      213: -3455626297028164474
+    second: HugePlanet_80x80_57
+  - first:
+      213: 8325739652209030543
+    second: HugePlanet_80x80_58
+  - first:
+      213: -5560719037754833183
+    second: HugePlanet_80x80_59
+  - first:
+      213: 8477755708097310057
+    second: HugePlanet_0
+  - first:
+      213: -7274123871419382635
+    second: HugePlanet_1
+  - first:
+      213: 2180124172458646722
+    second: HugePlanet_2
+  - first:
+      213: -6348395825881917785
+    second: HugePlanet_3
+  - first:
+      213: -5872213204666140197
+    second: HugePlanet_4
+  - first:
+      213: 599800621330627666
+    second: HugePlanet_5
+  - first:
+      213: 3762822318954520158
+    second: HugePlanet_6
+  - first:
+      213: 7048937354612302472
+    second: HugePlanet_7
+  - first:
+      213: 5591648657896592617
+    second: HugePlanet_8
+  - first:
+      213: -617729323536029534
+    second: HugePlanet_9
+  - first:
+      213: -6956132230829594302
+    second: HugePlanet_10
+  - first:
+      213: -201377862670188032
+    second: HugePlanet_11
+  - first:
+      213: 6992506437869625109
+    second: HugePlanet_12
+  - first:
+      213: 3012887810073765835
+    second: HugePlanet_13
+  - first:
+      213: -4983621117390304320
+    second: HugePlanet_14
+  - first:
+      213: 6022185787215931355
+    second: HugePlanet_15
+  - first:
+      213: 4787876830427502611
+    second: HugePlanet_16
+  - first:
+      213: -2510525241869994908
+    second: HugePlanet_17
+  - first:
+      213: 3959608214576683724
+    second: HugePlanet_18
+  - first:
+      213: 6588410656257640715
+    second: HugePlanet_19
+  - first:
+      213: 1762618065052008078
+    second: HugePlanet_20
+  - first:
+      213: 4690290265995141712
+    second: HugePlanet_21
+  - first:
+      213: -5608904910577769223
+    second: HugePlanet_22
+  - first:
+      213: -9015756200819157002
+    second: HugePlanet_23
+  - first:
+      213: -2649551153382798034
+    second: HugePlanet_24
+  - first:
+      213: -2404680126637975145
+    second: HugePlanet_25
+  - first:
+      213: 2869380582458954447
+    second: HugePlanet_26
+  - first:
+      213: 1840215800191297216
+    second: HugePlanet_27
+  - first:
+      213: 7624879743848070700
+    second: HugePlanet_28
+  - first:
+      213: -439015242276690758
+    second: HugePlanet_29
+  - first:
+      213: 3095486454859587928
+    second: HugePlanet_30
+  - first:
+      213: -6992968437349753847
+    second: HugePlanet_31
+  - first:
+      213: -4035457634879959348
+    second: HugePlanet_32
+  - first:
+      213: 1004959132613410073
+    second: HugePlanet_33
+  - first:
+      213: 4727483298880445672
+    second: HugePlanet_34
+  - first:
+      213: 306824722873013816
+    second: HugePlanet_35
+  - first:
+      213: -5291869996018871658
+    second: HugePlanet_36
+  - first:
+      213: 5179179524450276644
+    second: HugePlanet_37
+  - first:
+      213: 3789819924071490971
+    second: HugePlanet_38
+  - first:
+      213: -4791254971352833741
+    second: HugePlanet_39
+  - first:
+      213: 5110791019703098371
+    second: HugePlanet_40
+  - first:
+      213: 7838085476880569616
+    second: HugePlanet_41
+  - first:
+      213: 4580516687631855512
+    second: HugePlanet_42
+  - first:
+      213: 8319741916672433630
+    second: HugePlanet_43
+  - first:
+      213: -351457080228549525
+    second: HugePlanet_44
+  - first:
+      213: -6195176715851573643
+    second: HugePlanet_45
+  - first:
+      213: 6618516478556022554
+    second: HugePlanet_46
+  - first:
+      213: -4884049075265405579
+    second: HugePlanet_47
+  - first:
+      213: -7884327851052969301
+    second: HugePlanet_48
+  - first:
+      213: 2816794628406356734
+    second: HugePlanet_49
+  - first:
+      213: 7686339000623096408
+    second: HugePlanet_50
+  - first:
+      213: 4626857560109856508
+    second: HugePlanet_51
+  - first:
+      213: 4532703606869904418
+    second: HugePlanet_52
+  - first:
+      213: 6306280147686482399
+    second: HugePlanet_53
+  - first:
+      213: -4749884651953408994
+    second: HugePlanet_54
+  - first:
+      213: 4109655413059767570
+    second: HugePlanet_55
+  - first:
+      213: 8205022878482699917
+    second: HugePlanet_56
+  - first:
+      213: -9016539992937075286
+    second: HugePlanet_57
+  - first:
+      213: -4546569819050285403
+    second: HugePlanet_58
+  - first:
+      213: 2299036665724202392
+    second: HugePlanet_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HugePlanet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d2ea146e907a570800000000000000
+      internalID: 8477755708097310057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594cbdff0ee1d0b90800000000000000
+      internalID: -7274123871419382635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccd3a1526b514e10800000000000000
+      internalID: 2180124172458646722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a65cb0b1a7f5e7a0800000000000000
+      internalID: -6348395825881917785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd93482e335b18ea0800000000000000
+      internalID: -5872213204666140197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c787abc7be25800800000000000000
+      internalID: 599800621330627666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e123a76fa383430800000000000000
+      internalID: 3762822318954520158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882e5a95d2bd2d160800000000000000
+      internalID: 7048937354612302472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e457ba14d6899d40800000000000000
+      internalID: 5591648657896592617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8ea4ff3726d67f0800000000000000
+      internalID: -617729323536029534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249a1ca579ad67f90800000000000000
+      internalID: -6956132230829594302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0028aed96ef843df0800000000000000
+      internalID: -201377862670188032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fd9deae8f5a0160800000000000000
+      internalID: 6992506437869625109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc72d83108defc920800000000000000
+      internalID: 3012887810073765835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbc0d28ffe96dab0800000000000000
+      internalID: -4983621117390304320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7696a011a139350800000000000000
+      internalID: 6022185787215931355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31854f92c94f17240800000000000000
+      internalID: 4787876830427502611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464ffa60892d82dd0800000000000000
+      internalID: -2510525241869994908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccadf8731ba53f630800000000000000
+      internalID: 3959608214576683724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0982a0c59cbe6b50800000000000000
+      internalID: 6588410656257640715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e7c1a9ac3167810800000000000000
+      internalID: 1762618065052008078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052ec1e8522471140800000000000000
+      internalID: 4690290265995141712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4611a73ba2922b0800000000000000
+      internalID: -5608904910577769223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f716acb08991e280800000000000000
+      internalID: -9015756200819157002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d44609347ea3bd0800000000000000
+      internalID: -2649551153382798034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7995d455a2cd0aed0800000000000000
+      internalID: -2404680126637975145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc29ed6ef6612d720800000000000000
+      internalID: 2869380582458954447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6a6783582c98910800000000000000
+      internalID: 1840215800191297216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eb22b8ab301d960800000000000000
+      internalID: 7624879743848070700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4ad1196fd48e9f0800000000000000
+      internalID: -439015242276690758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85160f4b78065fa20800000000000000
+      internalID: 3095486454859587928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cdf3ea14cf3fe90800000000000000
+      internalID: -6992968437349753847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce87de69ac2ff7c0800000000000000
+      internalID: -4035457634879959348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91df431b10552fd00800000000000000
+      internalID: 1004959132613410073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec5c5753056b9140800000000000000
+      internalID: 4727483298880445672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8365727b57f024400800000000000000
+      internalID: 306824722873013816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6925fb1b6408f86b0800000000000000
+      internalID: -5291869996018871658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425d5d6465420e740800000000000000
+      internalID: 5179179524450276644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95aaf04425289430800000000000000
+      internalID: 3789819924071490971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331a03c1dfa028db0800000000000000
+      internalID: -4791254971352833741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cd8a2ba5d2de640800000000000000
+      internalID: 5110791019703098371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0155d98963976cc60800000000000000
+      internalID: 7838085476880569616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fab06a8a3419f30800000000000000
+      internalID: 4580516687631855512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd103e7139a57370800000000000000
+      internalID: 8319741916672433630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c6e2bc5af5f1bf0800000000000000
+      internalID: -351457080228549525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57655e2b99f460aa0800000000000000
+      internalID: -6195176715851573643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17a66cbba1b9db50800000000000000
+      internalID: 6618516478556022554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dfa3b2e3f583cb0800000000000000
+      internalID: -4884049075265405579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2d449a79d359290800000000000000
+      internalID: -7884327851052969301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaa36f5ac3471720800000000000000
+      internalID: 2816794628406356734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852ee5bd89c5baa60800000000000000
+      internalID: 7686339000623096408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6bda0df66e53040800000000000000
+      internalID: 4626857560109856508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ccc974ae567ee30800000000000000
+      internalID: 4532703606869904418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd163f8d168648750800000000000000
+      internalID: 6306280147686482399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14bc343315051eb0800000000000000
+      internalID: -4749884651953408994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_55
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d40b403dd680930800000000000000
+      internalID: 4109655413059767570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d861aedf5d81ed170800000000000000
+      internalID: 8205022878482699917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aade1e9e5a0ded280800000000000000
+      internalID: -9016539992937075286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6eefc96d657e0c0800000000000000
+      internalID: -4546569819050285403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugePlanet_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89de61aaaa1d7ef10800000000000000
+      internalID: 2299036665724202392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e083dae1dcdfa2d4a904eb07ca97f396
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

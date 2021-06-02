@@ -8,7 +8,7 @@ public class SerializationManager
 {
     public static bool Save(string saveName, object saveData)
     {
-        BinaryFormatter formatter = GetBinaryFormatter();
+        BinaryFormatter bf_formatter = GetBinaryFormatter();
 
         if (!Directory.Exists(Application.persistentDataPath + "/saves"))
         {
@@ -19,7 +19,7 @@ public class SerializationManager
 
         FileStream file = File.Create(path);
 
-        formatter.Serialize(file, saveData);
+        bf_formatter.Serialize(file, saveData);
 
         file.Close();
 
@@ -53,8 +53,8 @@ public class SerializationManager
 
     public static BinaryFormatter GetBinaryFormatter()
     {
-        BinaryFormatter formatter = new BinaryFormatter();
+        BinaryFormatter bf_formatter = new BinaryFormatter();
 
-        return formatter;
+        return bf_formatter;
     }
 }

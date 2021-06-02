@@ -4,29 +4,32 @@ using UnityEngine;
 [System.Serializable]
 public class SaveData
 {
-    private static SaveData _current;
-    public static SaveData current
+    #region Singleton
+    private static SaveData _sd_current;
+    public static SaveData sd_current
     {
         get
         {
-            if (_current == null)
+            if (_sd_current == null)
             {
-                _current = new SaveData();
+                _sd_current = new SaveData();
             }
 
-            return _current;
+            return _sd_current;
         }
         set
         {
             if(value != null)
             {
-                _current = value;
+                _sd_current = value;
             }
         }
     }
+    #endregion
 
-    public PlayerProfile profile;
+    #region Public Variables
+    public PlayerProfile p_profile;
 
+    #endregion
 
-    
 }
