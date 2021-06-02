@@ -404,6 +404,7 @@ GameObject:
   - component: {fileID: 637751495}
   - component: {fileID: 637751494}
   - component: {fileID: 637751493}
+  - component: {fileID: 637751496}
   m_Layer: 5
   m_Name: Button (2)
   m_TagString: Untagged
@@ -429,7 +430,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -120}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 88.33356, y: 35.001343}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &637751493
 MonoBehaviour:
@@ -522,6 +523,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 637751491}
   m_CullTransparentMesh: 0
+--- !u!114 &637751496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 637751491}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e46778ab94dabd448eb6f13086a47ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  content: Tests the incoming result of an attack the armor is weak against
+  header: Weak against incoming damage
 --- !u!1 &787441305
 GameObject:
   m_ObjectHideFlags: 0
@@ -791,6 +806,7 @@ GameObject:
   - component: {fileID: 1502393734}
   - component: {fileID: 1502393733}
   - component: {fileID: 1502393732}
+  - component: {fileID: 1502393735}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -816,7 +832,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 124}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 100, y: 35.001343}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1502393732
 MonoBehaviour:
@@ -909,6 +925,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1502393730}
   m_CullTransparentMesh: 0
+--- !u!114 &1502393735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1502393730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e46778ab94dabd448eb6f13086a47ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  content: Tests the incoming result of an attack the armor is strong against
+  header: Strong aginst incoming damage
 --- !u!1 &1613246540
 GameObject:
   m_ObjectHideFlags: 0
@@ -1013,6 +1043,7 @@ GameObject:
   - component: {fileID: 1751249982}
   - component: {fileID: 1751249981}
   - component: {fileID: 1751249980}
+  - component: {fileID: 1751249983}
   m_Layer: 5
   m_Name: Button (1)
   m_TagString: Untagged
@@ -1038,7 +1069,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 100, y: 41.667877}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1751249980
 MonoBehaviour:
@@ -1131,3 +1162,137 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1751249978}
   m_CullTransparentMesh: 0
+--- !u!114 &1751249983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1751249978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e46778ab94dabd448eb6f13086a47ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  content: Tests the incoming result of an attack the armor has no strength or weakness
+    against
+  header: No strength or weakness
+--- !u!1001 &491835158722395284
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240808, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 491835159267240812, guid: 3f4dd82a4a5d8304a80cbcf54e78e384,
+        type: 3}
+      propertyPath: m_Name
+      value: ToolTipCanvas
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3f4dd82a4a5d8304a80cbcf54e78e384, type: 3}
