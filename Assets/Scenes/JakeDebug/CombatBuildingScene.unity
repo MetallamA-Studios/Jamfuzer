@@ -477,6 +477,7 @@ GameObject:
   - component: {fileID: 637751494}
   - component: {fileID: 637751493}
   - component: {fileID: 637751496}
+  - component: {fileID: 637751497}
   m_Layer: 5
   m_Name: Button (2)
   m_TagString: Untagged
@@ -609,6 +610,54 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   content: Tests the incoming result of an attack the armor is weak against
   header: Weak against incoming damage
+--- !u!114 &637751497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 637751491}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b93d33c2e1e7e414888ee3ab9f2a7575, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GO_objectToAnimate: {fileID: 0}
+  e_animationType: 4
+  LTT_easeType: 5
+  f_duration: 1
+  f_delay: 0
+  f_shakeAmount: 0.1
+  AC_animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  b_loop: 1
+  b_pingPong: 0
+  b_startPositionOffset: 1
+  V3_from: {x: 0, y: 0, z: 0}
+  V3_to: {x: 1, y: 0, z: 0}
+  b_showOnEnable: 1
 --- !u!1 &787441305
 GameObject:
   m_ObjectHideFlags: 0
@@ -1025,22 +1074,40 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GO_objectToAnimate: {fileID: 0}
-  e_animationType: 5
-  LTT_easeType: 0
-  f_duration: 2
+  e_animationType: 4
+  LTT_easeType: 5
+  f_duration: 1
   f_delay: 0
-  f_shakeAmount: 0.05
+  f_shakeAmount: 0.1
   AC_animationCurve:
     serializedVersion: 2
-    m_Curve: []
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  b_loop: 0
+  b_loop: 1
   b_pingPong: 0
-  b_startPositionOffset: 0
+  b_startPositionOffset: 1
   V3_from: {x: 0, y: 0, z: 0}
-  V3_to: {x: 0, y: 0, z: 0}
+  V3_to: {x: 1, y: 0, z: 0}
   b_showOnEnable: 1
 --- !u!1 &1751249978
 GameObject:
@@ -1055,6 +1122,7 @@ GameObject:
   - component: {fileID: 1751249981}
   - component: {fileID: 1751249980}
   - component: {fileID: 1751249983}
+  - component: {fileID: 1751249984}
   m_Layer: 5
   m_Name: Button (1)
   m_TagString: Untagged
@@ -1188,6 +1256,63 @@ MonoBehaviour:
   content: Tests the incoming result of an attack the armor has no strength or weakness
     against
   header: No strength or weakness
+--- !u!114 &1751249984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1751249978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b93d33c2e1e7e414888ee3ab9f2a7575, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GO_objectToAnimate: {fileID: 0}
+  e_animationType: 1
+  LTT_easeType: 38
+  f_duration: 1
+  f_delay: 0
+  f_shakeAmount: 0.1
+  AC_animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.47096735
+      value: 0.5060371
+      inSlope: -4.332948
+      outSlope: -4.332948
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.6185401
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  b_loop: 1
+  b_pingPong: 1
+  b_startPositionOffset: 0
+  V3_from: {x: 0, y: 0, z: 0}
+  V3_to: {x: 2, y: 2, z: 0}
+  b_showOnEnable: 1
 --- !u!1001 &491835158722395284
 PrefabInstance:
   m_ObjectHideFlags: 0
