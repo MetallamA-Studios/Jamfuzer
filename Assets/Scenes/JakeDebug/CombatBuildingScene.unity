@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 0
+  m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -879,6 +879,7 @@ GameObject:
   - component: {fileID: 1502393733}
   - component: {fileID: 1502393732}
   - component: {fileID: 1502393735}
+  - component: {fileID: 1502393736}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -1011,6 +1012,36 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   content: Tests the incoming result of an attack the armor is strong against
   header: Strong aginst incoming damage
+--- !u!114 &1502393736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1502393730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b93d33c2e1e7e414888ee3ab9f2a7575, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GO_objectToAnimate: {fileID: 0}
+  e_animationType: 5
+  LTT_easeType: 0
+  f_duration: 2
+  f_delay: 0
+  f_shakeAmount: 0.05
+  AC_animationCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  b_loop: 0
+  b_pingPong: 0
+  b_startPositionOffset: 0
+  V3_from: {x: 0, y: 0, z: 0}
+  V3_to: {x: 0, y: 0, z: 0}
+  b_showOnEnable: 1
 --- !u!1 &1751249978
 GameObject:
   m_ObjectHideFlags: 0

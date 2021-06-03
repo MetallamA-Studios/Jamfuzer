@@ -31,7 +31,7 @@ public class Item : ScriptableObject
 
     public string s_weaponUseDescription;
 
-    public E_DAMAGE_TYPES dt_itemDamageType;
+    public E_DAMAGE_TYPES DT_itemDamageType;
     #endregion
 
     public void Use_Item()
