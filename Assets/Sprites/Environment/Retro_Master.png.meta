@@ -127,7 +127,7 @@ TextureImporter:
     second: Retro_Master_WallPillarML
   - first:
       213: 2567237546924643234
-    second: Retro_Master_GlowWallTL
+    second: Retro_Master_BigGlowWall
   - first:
       213: 3211171046458195703
     second: Retro_Master_GlowWallT
@@ -220,13 +220,13 @@ TextureImporter:
     second: Retro_Master_GlowWallBR
   - first:
       213: -4130394315429055718
-    second: Retro_Master_FloorEdgeTL
+    second: Retro_Master_FloorEdgeTLWall
   - first:
       213: -3241048072009420126
-    second: Retro_Master_FloorEdgeTM
+    second: Retro_Master_FloorEdgeTMWall
   - first:
       213: 639477290006561991
-    second: Retro_Master_FloorEdgeTR
+    second: Retro_Master_FloorEdgeTRWall
   - first:
       213: -7107559013961957796
     second: Retro_Master_FloorEdgeR
@@ -317,6 +317,57 @@ TextureImporter:
   - first:
       213: -8263967535078064904
     second: Retro_Master_FloorUnderSpots6
+  - first:
+      213: 3211171046458195703
+    second: Retro_Master_LargeDoorDecal2
+  - first:
+      213: -5302612370207911712
+    second: Retro_Master_FloorSpots1
+  - first:
+      213: 7472747063822297220
+    second: Retro_Master_FloorSpots2
+  - first:
+      213: 1077056523148536999
+    second: Retro_Master_FloorSpots3
+  - first:
+      213: 2942365595193661047
+    second: Retro_Master_FloorSpots4
+  - first:
+      213: 4123216123816734868
+    second: Retro_Master_FloorEdgeTR
+  - first:
+      213: 6402734891676822508
+    second: Retro_Master_FloorEdgeTL
+  - first:
+      213: -431071602365579820
+    second: Retro_Master_FloorEdgeBLCorner
+  - first:
+      213: -8482649177835883856
+    second: Retro_Master_FloorEdgeBRCorner
+  - first:
+      213: 9134271485385369189
+    second: Retro_Master_FloorEdgeTLCorner
+  - first:
+      213: -1657922047206802900
+    second: Retro_Master_FloorEdgeTRCorner
+  - first:
+      213: -6473519635425350662
+    second: Retro_Master_SmallDoor
+  - first:
+      213: 2043281922419250007
+    second: Retro_Master_SmallDoorDecal1
+  - first:
+      213: -4742963865460057009
+    second: Retro_Master_SmallDoorDecal2
+  - first:
+      213: -1111463348516528364
+    second: Retro_Master_BigGlowWallLight
+  - first:
+      213: 2984733352468320724
+    second: Retro_Master_SmallGlowWall
+  - first:
+      213: 5286692834853459894
+    second: Retro_Master_SmallGlowWallLight
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1263,13 +1314,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Retro_Master_GlowWallTL
+      name: Retro_Master_BigGlowWall
       rect:
         serializedVersion: 2
         x: 208
-        y: 1408
-        width: 16
-        height: 16
+        y: 1376
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1279,48 +1330,6 @@ TextureImporter:
       bones: []
       spriteID: 2a31d7672f8a0a320800000000000000
       internalID: 2567237546924643234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Retro_Master_GlowWallT
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 1408
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7fef821ad0f509c20800000000000000
-      internalID: 3211171046458195703
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Retro_Master_GlowWallTR
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 1408
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e05a2cc4265966b0800000000000000
-      internalID: -5302612370207911712
       vertices: []
       indices: 
       edges: []
@@ -1578,69 +1587,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Retro_Master_GlowWallL
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 1392
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 488a87bbcd784b760800000000000000
-      internalID: 7472747063822297220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Retro_Master_GlowWallM
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 1392
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ac2949833972fe00800000000000000
-      internalID: 1077056523148536999
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Retro_Master_GlowWallR
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 1392
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 77659d46be165d820800000000000000
-      internalID: 2942365595193661047
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Retro_Master_WallWallDetailB
       rect:
         serializedVersion: 2
@@ -1851,70 +1797,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Retro_Master_GlowWallBL
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 1376
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4907248083b983930800000000000000
-      internalID: 4123216123816734868
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Retro_Master_GlowWallB
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 1376
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ceb6569f5751bd850800000000000000
-      internalID: 6402734891676822508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Retro_Master_GlowWallBR
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 1376
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ddbd3c59a6840af0800000000000000
-      internalID: -431071602365579820
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Retro_Master_FloorEdgeTL
+      name: Retro_Master_FloorEdgeTLWall
       rect:
         serializedVersion: 2
         x: 80
@@ -1935,7 +1818,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Retro_Master_FloorEdgeTM
+      name: Retro_Master_FloorEdgeTMWall
       rect:
         serializedVersion: 2
         x: 96
@@ -1956,7 +1839,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Retro_Master_FloorEdgeTR
+      name: Retro_Master_FloorEdgeTRWall
       rect:
         serializedVersion: 2
         x: 112
@@ -2602,6 +2485,363 @@ TextureImporter:
       bones: []
       spriteID: 8fcbf4caf4d705d80800000000000000
       internalID: -8263967535078064904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeDoorDecal2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1520
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fef821ad0f509c20800000000000000
+      internalID: 3211171046458195703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorSpots1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e05a2cc4265966b0800000000000000
+      internalID: -5302612370207911712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorSpots2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488a87bbcd784b760800000000000000
+      internalID: 7472747063822297220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorSpots3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac2949833972fe00800000000000000
+      internalID: 1077056523148536999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorSpots4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77659d46be165d820800000000000000
+      internalID: 2942365595193661047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeTR
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4907248083b983930800000000000000
+      internalID: 4123216123816734868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeTL
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb6569f5751bd850800000000000000
+      internalID: 6402734891676822508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeBLCorner
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddbd3c59a6840af0800000000000000
+      internalID: -431071602365579820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeBRCorner
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b235d80483974a80800000000000000
+      internalID: -8482649177835883856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeTLCorner
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566ef50458373ce70800000000000000
+      internalID: 9134271485385369189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeTRCorner
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a33fe9ea0edf8e0800000000000000
+      internalID: -1657922047206802900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallDoor
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1520
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afba4f390307926a0800000000000000
+      internalID: -6473519635425350662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallDoorDecal1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1520
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d6c925123b5c10800000000000000
+      internalID: 2043281922419250007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallDoorDecal2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1520
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c5db06e7b9d2eb0800000000000000
+      internalID: -4742963865460057009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigGlowWallLight
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1376
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f5eca29f94390f0800000000000000
+      internalID: -1111463348516528364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallGlowWall
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1376
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d192279b27eb6920800000000000000
+      internalID: 2984733352468320724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallGlowWallLight
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1376
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b71b0a8f1b1e5940800000000000000
+      internalID: 5286692834853459894
       vertices: []
       indices: 
       edges: []

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5199843435485175082}
   m_Layer: 0
   m_Name: Small Pillar
-  m_TagString: Untagged
+  m_TagString: SecondaryColour
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 1412845696912193596}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 6542022816876840107}
   m_Father: {fileID: 0}
@@ -109,7 +109,7 @@ MonoBehaviour:
   - {x: -0.25, y: -1.5, z: 0}
   m_ShapePathHash: -1449790187
   m_Mesh: {fileID: 0}
-  m_InstanceId: 17638
+  m_InstanceId: 61802
 --- !u!1 &4886837367900698573
 GameObject:
   m_ObjectHideFlags: 0
@@ -123,7 +123,7 @@ GameObject:
   - component: {fileID: 4670090824173619184}
   m_Layer: 0
   m_Name: Decal
-  m_TagString: Untagged
+  m_TagString: LightColour
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.5
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 5
+  m_Intensity: 3
   m_LightVolumeOpacity: 0
   m_ApplyToSortingLayers: 000000002fe63140
   m_LightCookieSprite: {fileID: 6245261744127424095, guid: 164883b715c54b04a91595675b59c60b,

@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 420a57f417085624f9b68c1437648ee0, type: 3}
-  m_Name: Pink Colour Theme
+  m_Name: Purple Colour Theme
   m_EditorClassIdentifier: 
-  mainColor: {r: 0.5660378, g: 0.104129605, b: 0.26715595, a: 1}
-  secondaryColor: {r: 0.12922749, g: 0.8301887, b: 0.56216466, a: 1}
-  thirdColor: {r: 0.5728907, g: 0.7735849, b: 0.70919704, a: 1}
-  lightColor: {r: 1, g: 0.6367924, b: 0.7968002, a: 1}
+  mainColor: {r: 0.36538804, g: 0.6509434, b: 0.6459633, a: 1}
+  secondaryColor: {r: 0.7622926, g: 0.4009434, b: 1, a: 1}
+  thirdColor: {r: 0.7641732, g: 0.495283, b: 1, a: 1}
+  lightColor: {r: 1, g: 0.78845644, b: 0, a: 1}
   gradientLightColor:
     serializedVersion: 2
-    key0: {r: 1, g: 0.63529414, b: 0.7960785, a: 1}
-    key1: {r: 0.555774, g: 0.09732112, b: 0.764151, a: 1}
+    key0: {r: 1, g: 0.78823537, b: 0, a: 1}
+    key1: {r: 1, g: 0.27507275, b: 0, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
@@ -47,8 +47,8 @@ MonoBehaviour:
     m_NumAlphaKeys: 2
   gradientSecondaryColor:
     serializedVersion: 2
-    key0: {r: 0.12941177, g: 0.8313726, b: 0.56078434, a: 1}
-    key1: {r: 0.07058822, g: 0.5691007, b: 0.69803923, a: 1}
+    key0: {r: 0.7607844, g: 0.40000004, b: 1, a: 1}
+    key1: {r: 0.2835217, g: 0.12148449, b: 0.735849, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}

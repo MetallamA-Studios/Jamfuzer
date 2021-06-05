@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Retro_Master_FloorEdgeTL
+  m_Name: Retro_Master_FloorEdgeTRCorner
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 6402734891676822508, guid: 164883b715c54b04a91595675b59c60b,
+  m_Sprite: {fileID: -1657922047206802900, guid: 164883b715c54b04a91595675b59c60b,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
