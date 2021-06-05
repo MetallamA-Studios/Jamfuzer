@@ -80,6 +80,243 @@ TextureImporter:
   - first:
       213: -4856970004209176289
     second: Retro_Master_FloorUnderR
+  - first:
+      213: 5920322506514792683
+    second: Retro_Master_SmallPillarDecal2
+  - first:
+      213: 1427989849092900869
+    second: Retro_Master_BigPillarDecal1
+  - first:
+      213: -3419838318234522027
+    second: Retro_Master_BigPillarDecal2
+  - first:
+      213: -5585702747197569024
+    second: Retro_Master_WallWallCornerT
+  - first:
+      213: -3863840046223062194
+    second: Retro_Master_WallWallT
+  - first:
+      213: 1908365806776111565
+    second: Retro_Master_WallPillarT
+  - first:
+      213: 7651710383269800445
+    second: Retro_Master_WallWallCornerTL
+  - first:
+      213: 3497033735285611522
+    second: Retro_Master_WallWallCornerTR
+  - first:
+      213: 5044364161858814451
+    second: Retro_Master_WallPillarSingleT
+  - first:
+      213: 2854160113724244378
+    second: Retro_Master_WallPillarTL
+  - first:
+      213: 7482289540632296278
+    second: Retro_Master_WallPillarTR
+  - first:
+      213: -3883721644110525093
+    second: Retro_Master_WallPillarM2
+  - first:
+      213: 5972581847613059314
+    second: Retro_Master_WallPillarML2
+  - first:
+      213: -3838094935823300766
+    second: Retro_Master_WallPillarM
+  - first:
+      213: -6963006586067036006
+    second: Retro_Master_WallPillarML
+  - first:
+      213: 2567237546924643234
+    second: Retro_Master_GlowWallTL
+  - first:
+      213: 3211171046458195703
+    second: Retro_Master_GlowWallT
+  - first:
+      213: -5302612370207911712
+    second: Retro_Master_GlowWallTR
+  - first:
+      213: -8399852272877915976
+    second: Retro_Master_WallWallDetailM
+  - first:
+      213: -7550085208307049010
+    second: Retro_Master_WallWall
+  - first:
+      213: 4795729692521349727
+    second: Retro_Master_WallPillar
+  - first:
+      213: -5326264649221408485
+    second: Retro_Master_WallWallDecal
+  - first:
+      213: 2294142220881396004
+    second: Retro_Master_WallWallM
+  - first:
+      213: 3120776113267216978
+    second: Retro_Master_WallPillarSingle
+  - first:
+      213: -7890312078124476032
+    second: Retro_Master_WallPillarL
+  - first:
+      213: 5482105445767614906
+    second: Retro_Master_WallPillarR
+  - first:
+      213: 8943860770400671019
+    second: Retro_Master_WallPillarSingleM2
+  - first:
+      213: -7076545694507677137
+    second: Retro_Master_WallPillarMR2
+  - first:
+      213: 4537593317639052899
+    second: Retro_Master_WallPillarSingleM
+  - first:
+      213: 1850442784132066338
+    second: Retro_Master_WallPillarMR
+  - first:
+      213: 7472747063822297220
+    second: Retro_Master_GlowWallL
+  - first:
+      213: 1077056523148536999
+    second: Retro_Master_GlowWallM
+  - first:
+      213: 2942365595193661047
+    second: Retro_Master_GlowWallR
+  - first:
+      213: -9132036493024204631
+    second: Retro_Master_WallWallDetailB
+  - first:
+      213: -7717553105178415655
+    second: Retro_Master_WallWallB
+  - first:
+      213: 6907879392650073737
+    second: Retro_Master_WallPillarB
+  - first:
+      213: 3169250155262745795
+    second: Retro_Master_WallWallEdgeL
+  - first:
+      213: -8231825736094529958
+    second: Retro_Master_WallWallEdgeBL
+  - first:
+      213: 6437569501925622025
+    second: Retro_Master_WallPillarSingleB
+  - first:
+      213: -1090086536531996278
+    second: Retro_Master_WallPillarBL
+  - first:
+      213: 812967302666812684
+    second: Retro_Master_WallPillarBR
+  - first:
+      213: -6686044648332778107
+    second: Retro_Master_WallWallEdgeBR
+  - first:
+      213: -1051325723223845959
+    second: Retro_Master_WallWallEdgeR
+  - first:
+      213: 4123216123816734868
+    second: Retro_Master_GlowWallBL
+  - first:
+      213: 6402734891676822508
+    second: Retro_Master_GlowWallB
+  - first:
+      213: -431071602365579820
+    second: Retro_Master_GlowWallBR
+  - first:
+      213: -4130394315429055718
+    second: Retro_Master_FloorEdgeTL
+  - first:
+      213: -3241048072009420126
+    second: Retro_Master_FloorEdgeTM
+  - first:
+      213: 639477290006561991
+    second: Retro_Master_FloorEdgeTR
+  - first:
+      213: -7107559013961957796
+    second: Retro_Master_FloorEdgeR
+  - first:
+      213: -7022237498672196077
+    second: Retro_Master_FloorEdgeBL
+  - first:
+      213: -2148387659737947599
+    second: Retro_Master_FloorSquareGap
+  - first:
+      213: -4004466206203599239
+    second: Retro_Master_FloorEdgeBR
+  - first:
+      213: 6716669902193348841
+    second: Retro_Master_FloorEdgeL
+  - first:
+      213: -9089258287896649437
+    second: Retro_Master_FloorSquareGapL
+  - first:
+      213: 6709250075740441594
+    second: Retro_Master_FloorEdge
+  - first:
+      213: -366085837807793786
+    second: Retro_Master_FloorSquareGapR
+  - first:
+      213: 1586398831420559375
+    second: Retro_Master_FloorEdgeBM
+  - first:
+      213: 7326470797907770683
+    second: Retro_Master_FloorSquareUnderL
+  - first:
+      213: 2684367991526254254
+    second: Retro_Master_FloorSquareUnderML
+  - first:
+      213: 9024353165666622205
+    second: Retro_Master_FloorSquareUnderM
+  - first:
+      213: -7331399749595705577
+    second: Retro_Master_FloorSquareUnderMR
+  - first:
+      213: -3018314333366918368
+    second: Retro_Master_FloorSquareUnderR
+  - first:
+      213: 5329525813665204404
+    second: Retro_Master_FloorUnderDecal1
+  - first:
+      213: -1932371673753139173
+    second: Retro_Master_FloorUnderDecal2
+  - first:
+      213: -8530109614242840347
+    second: Retro_Master_FloorUnderDecal3
+  - first:
+      213: -5283014619141635784
+    second: Retro_Master_FloorUnderDecal4
+  - first:
+      213: 287389970423986945
+    second: Retro_Master_FloorUnderDecal5
+  - first:
+      213: -3140765193307297848
+    second: Retro_Master_FloorUnderDecal6
+  - first:
+      213: -6486154454699364885
+    second: Retro_Master_FloorDecal1
+  - first:
+      213: 8334727009269175276
+    second: Retro_Master_FloorDecal2
+  - first:
+      213: -6167026663967821627
+    second: Retro_Master_FloorDecal3
+  - first:
+      213: -1515897408781296440
+    second: Retro_Master_FloorDecal4
+  - first:
+      213: 1581793541600253398
+    second: Retro_Master_FloorUnderSpots1
+  - first:
+      213: -6919103827100580415
+    second: Retro_Master_FloorUnderSpots2
+  - first:
+      213: 3831296112651306658
+    second: Retro_Master_FloorUnderSpots3
+  - first:
+      213: 4078919876083589469
+    second: Retro_Master_FloorUnderSpots4
+  - first:
+      213: 8731390615932256057
+    second: Retro_Master_FloorUnderSpots5
+  - first:
+      213: -8263967535078064904
+    second: Retro_Master_FloorUnderSpots6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -173,7 +410,7 @@ TextureImporter:
         width: 8
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,7 +431,7 @@ TextureImporter:
         width: 8
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -215,7 +452,7 @@ TextureImporter:
         width: 16
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -236,7 +473,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -257,7 +494,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -278,7 +515,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -299,7 +536,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -320,7 +557,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -341,7 +578,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -362,7 +599,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -383,7 +620,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -404,7 +641,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -425,7 +662,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -446,7 +683,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -467,7 +704,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -488,7 +725,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -509,7 +746,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -530,7 +767,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -551,7 +788,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -572,7 +809,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -593,7 +830,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -614,7 +851,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -635,7 +872,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -656,7 +893,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -677,7 +914,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -698,7 +935,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -706,6 +943,1665 @@ TextureImporter:
       bones: []
       spriteID: f117266b383989cb0800000000000000
       internalID: -4856970004209176289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallPillarDecal2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1520
+        width: 8
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be08094d3f5392250800000000000000
+      internalID: 5920322506514792683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigPillarDecal1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1440
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508cb02b33d31d310800000000000000
+      internalID: 1427989849092900869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigPillarDecal2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1440
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eac5c2b2b4a80d0800000000000000
+      internalID: -3419838318234522027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWallCornerT
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0088d5c12f89b72b0800000000000000
+      internalID: -5585702747197569024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWallT
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b02ff03f1e06ac0800000000000000
+      internalID: -3863840046223062194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarT
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1546e1790eb7a10800000000000000
+      internalID: 1908365806776111565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWallCornerTL
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e6f69d06503a60800000000000000
+      internalID: 7651710383269800445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWallCornerTR
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c914777a5f78030800000000000000
+      internalID: 3497033735285611522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarSingleT
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14e41aa7e210640800000000000000
+      internalID: 5044364161858814451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarTL
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a914f9e50830c9720800000000000000
+      internalID: 2854160113724244378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarTR
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b3200c1be66d760800000000000000
+      internalID: 7482289540632296278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarM2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dcb44ddbf3a1ac0800000000000000
+      internalID: -3883721644110525093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarML2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f03ceadb8fd2e250800000000000000
+      internalID: 5972581847613059314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarM
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267c600bdf85cbac0800000000000000
+      internalID: -3838094935823300766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarML
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98d4ccc66e6e5f90800000000000000
+      internalID: -6963006586067036006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_GlowWallTL
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a31d7672f8a0a320800000000000000
+      internalID: 2567237546924643234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_GlowWallT
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fef821ad0f509c20800000000000000
+      internalID: 3211171046458195703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_GlowWallTR
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e05a2cc4265966b0800000000000000
+      internalID: -5302612370207911712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWallDetailM
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0ba55bcdabd6b80800000000000000
+      internalID: -8399852272877915976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWall
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd5dee4185b83790800000000000000
+      internalID: -7550085208307049010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillar
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5247891fbadd8240800000000000000
+      internalID: 4795729692521349727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWallDecal
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19ff63758e4516b0800000000000000
+      internalID: -5326264649221408485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWallM
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4218cdbe13e66df10800000000000000
+      internalID: 2294142220881396004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarSingle
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25211d627593f4b20800000000000000
+      internalID: 3120776113267216978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarL
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0899a6838faff7290800000000000000
+      internalID: -7890312078124476032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarR
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab196348bd9541c40800000000000000
+      internalID: 5482105445767614906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarSingleM2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25984cebf9fe1c70800000000000000
+      internalID: 8943860770400671019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarMR2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2acc0a1f2f0bcd90800000000000000
+      internalID: -7076545694507677137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarSingleM
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36edf09c415c8fe30800000000000000
+      internalID: 4537593317639052899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarMR
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c606978e71ea910800000000000000
+      internalID: 1850442784132066338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_GlowWallL
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488a87bbcd784b760800000000000000
+      internalID: 7472747063822297220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_GlowWallM
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac2949833972fe00800000000000000
+      internalID: 1077056523148536999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_GlowWallR
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77659d46be165d820800000000000000
+      internalID: 2942365595193661047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWallDetailB
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a86365713d744180800000000000000
+      internalID: -9132036493024204631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWallB
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dda0a6175eb5e490800000000000000
+      internalID: -7717553105178415655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarB
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986162645b7bddf50800000000000000
+      internalID: 6907879392650073737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWallEdgeL
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc99cc89307bfb20800000000000000
+      internalID: 3169250155262745795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWallEdgeBL
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56ca2b6b1ea2cd80800000000000000
+      internalID: -8231825736094529958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarSingleB
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9014a23ba57d65950800000000000000
+      internalID: 6437569501925622025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarBL
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81139f021c3fd0f0800000000000000
+      internalID: -1090086536531996278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallPillarBR
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d7679547d384b00800000000000000
+      internalID: 812967302666812684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWallEdgeBR
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58529b701d56633a0800000000000000
+      internalID: -6686044648332778107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_WallWallEdgeR
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3130c23d0f861f0800000000000000
+      internalID: -1051325723223845959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_GlowWallBL
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4907248083b983930800000000000000
+      internalID: 4123216123816734868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_GlowWallB
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb6569f5751bd850800000000000000
+      internalID: 6402734891676822508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_GlowWallBR
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddbd3c59a6840af0800000000000000
+      internalID: -431071602365579820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeTL
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13fe8ef044eda6c0800000000000000
+      internalID: -4130394315429055718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeTM
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2f9e743fb7503d0800000000000000
+      internalID: -3241048072009420126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeTR
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c445c80531efd800800000000000000
+      internalID: 639477290006561991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeR
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5efba8fbb0ec5d90800000000000000
+      internalID: -7107559013961957796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeBL
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316573b43300c8e90800000000000000
+      internalID: -7022237498672196077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorSquareGap
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132ac7d5ec46f22e0800000000000000
+      internalID: -2148387659737947599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeBR
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976ad28b3374d68c0800000000000000
+      internalID: -4004466206203599239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeL
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0dac980b7663d50800000000000000
+      internalID: 6716669902193348841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorSquareGapL
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321252e7eb77cd180800000000000000
+      internalID: -9089258287896649437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdge
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb85c1956b0c1d50800000000000000
+      internalID: 6709250075740441594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorSquareGapR
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6894a20ced66beaf0800000000000000
+      internalID: -366085837807793786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEdgeBM
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00dae20555040610800000000000000
+      internalID: 1586398831420559375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorSquareUnderL
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3db0969f5adca560800000000000000
+      internalID: 7326470797907770683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorSquareUnderML
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6e955477ac04520800000000000000
+      internalID: 2684367991526254254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorSquareUnderM
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa1b3f1461fc3d70800000000000000
+      internalID: 9024353165666622205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorSquareUnderMR
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fc5fa65c2a14a90800000000000000
+      internalID: -7331399749595705577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorSquareUnderR
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023e1330b1bcc16d0800000000000000
+      internalID: -3018314333366918368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderDecal1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b80ac09d7746f940800000000000000
+      internalID: 5329525813665204404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderDecal2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18caeb6336de25e0800000000000000
+      internalID: -1932371673753139173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderDecal3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e049e31086fe9980800000000000000
+      internalID: -8530109614242840347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderDecal4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8310edac136fea6b0800000000000000
+      internalID: -5283014619141635784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderDecal5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb12bc7a30df300800000000000000
+      internalID: 287389970423986945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderDecal6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7e10a72b2c964d0800000000000000
+      internalID: -3140765193307297848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorDecal1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beda35973ec8cf5a0800000000000000
+      internalID: -6486154454699364885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorDecal2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d75f3e06eaa370800000000000000
+      internalID: 8334727009269175276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorDecal3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0f5d56ce15a6aa0800000000000000
+      internalID: -6167026663967821627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorDecal4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccd7a9965376fae0800000000000000
+      internalID: -1515897408781296440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderSpots1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5171b68d8a3f510800000000000000
+      internalID: 1581793541600253398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderSpots2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5cf9d6ab76aff90800000000000000
+      internalID: -6919103827100580415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderSpots3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a68aefe38f7b2530800000000000000
+      internalID: 3831296112651306658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderSpots4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d512e39240c3b9830800000000000000
+      internalID: 4078919876083589469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderSpots5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f32d911812c2970800000000000000
+      internalID: 8731390615932256057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderSpots6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcbf4caf4d705d80800000000000000
+      internalID: -8263967535078064904
       vertices: []
       indices: 
       edges: []
