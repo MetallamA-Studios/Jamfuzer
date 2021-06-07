@@ -10,24 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 420a57f417085624f9b68c1437648ee0, type: 3}
-  m_Name: Red Colour Theme
+  m_Name: Blue Colour Theme
   m_EditorClassIdentifier: 
   mainColor: {r: 0.21137416, g: 0.22868197, b: 0.3584906, a: 1}
-  secondaryColor: {r: 1, g: 0.3529412, b: 0.43921572, a: 1}
-  thirdColor: {r: 1, g: 0, b: 0.22794151, a: 1}
-  lightColor: {r: 0.4198113, g: 1, b: 0.94559014, a: 1}
+  secondaryColor: {r: 0.35404056, g: 0.48334873, b: 0.6415094, a: 1}
+  thirdColor: {r: 1, g: 1, b: 1, a: 1}
+  lightColor: {r: 1, g: 1, b: 1, a: 1}
   gradientLightColor:
     serializedVersion: 2
-    key0: {r: 0.36470592, g: 0.9704299, b: 1, a: 1}
-    key1: {r: 0, g: 0.8301887, b: 0.3272276, a: 1}
-    key2: {r: 0, g: 0.012812159, b: 0.5377358, a: 0}
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 0.5361959, g: 0.6439764, b: 1, a: 1}
+    key2: {r: 0.5182445, g: 0.1579299, b: 0.8584906, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
     key5: {r: 0, g: 0, b: 0, a: 0}
     key6: {r: 0, g: 0, b: 0, a: 0}
     key7: {r: 0, g: 0, b: 0, a: 0}
     ctime0: 0
-    ctime1: 65535
+    ctime1: 32768
     ctime2: 65535
     ctime3: 0
     ctime4: 0
@@ -43,12 +43,12 @@ MonoBehaviour:
     atime6: 0
     atime7: 0
     m_Mode: 0
-    m_NumColorKeys: 2
+    m_NumColorKeys: 3
     m_NumAlphaKeys: 2
   gradientSecondaryColor:
     serializedVersion: 2
-    key0: {r: 1, g: 0.3529412, b: 0.43921572, a: 1}
-    key1: {r: 0.6415094, g: 0, b: 0.44255129, a: 1}
+    key0: {r: 0.3529412, g: 0.48235297, b: 0.6431373, a: 1}
+    key1: {r: 0.28564602, g: 0, b: 0.6431373, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
