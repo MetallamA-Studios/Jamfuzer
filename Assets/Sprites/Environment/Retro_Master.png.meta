@@ -523,7 +523,7 @@ TextureImporter:
     second: Retro_Master_StairsMiddleLeft
   - first:
       213: -1702682322517666781
-    second: Retro_Master_165
+    second: Retro_Master_FloorUnderEye1
   - first:
       213: 5628652211765807604
     second: Retro_Master_StairsBottomLeft
@@ -539,6 +539,93 @@ TextureImporter:
   - first:
       213: 6755232562523825761
     second: Retro_Master_StairsBottomRight
+  - first:
+      213: -4140530864986829691
+    second: Retro_Master_FloorUnderEye2
+  - first:
+      213: 6360029840640644836
+    second: Retro_Master_FloorUnderEye3
+  - first:
+      213: 1955225562494705658
+    second: Retro_Master_FloorUnderEye4
+  - first:
+      213: 5287401707969951941
+    second: Retro_Master_FloorUnderEye5
+  - first:
+      213: -1124960716286575669
+    second: Retro_Master_FloorUnderEye6
+  - first:
+      213: 4195826167958645321
+    second: Retro_Master_FloorEye1
+  - first:
+      213: -8208501316374474890
+    second: Retro_Master_FloorEye2
+  - first:
+      213: -584306625889295517
+    second: Retro_Master_FloorEye3
+  - first:
+      213: -6805225852153524319
+    second: Retro_Master_FloorEye4
+  - first:
+      213: -8577380432935915268
+    second: Retro_Master_SmallPillarDecal3
+  - first:
+      213: -1550143939752618870
+    second: Retro_Master_SmallPillarRound
+  - first:
+      213: -670504385380466474
+    second: Retro_Master_SmallPillarRoundDecal1
+  - first:
+      213: 6461870365795683300
+    second: Retro_Master_SmallPillarRoundDecal2
+  - first:
+      213: 4258979003414491544
+    second: Retro_Master_SmallPillarRoundDecal3
+  - first:
+      213: -8107815915303098052
+    second: Retro_Master_SmallPillarDeco
+  - first:
+      213: -2625689265067384984
+    second: Retro_Master_SmallPillarDecoDecal1
+  - first:
+      213: -4660588713837207265
+    second: Retro_Master_SmallPillarDecoDecal2
+  - first:
+      213: 2235849239847582848
+    second: Retro_Master_SmallPillarDecoDecal3
+  - first:
+      213: -7161393224876693051
+    second: Retro_Master_BigPillarRound
+  - first:
+      213: 7337530533336283939
+    second: Retro_Master_BigPillarRoundDecal1
+  - first:
+      213: 2506022981468285815
+    second: Retro_Master_BigPillarRoundDecal2
+  - first:
+      213: -6123601738110201856
+    second: Retro_Master_BigPillarRoundDecal3
+  - first:
+      213: 8675181695660624431
+    second: Retro_Master_BigPillarDeco
+  - first:
+      213: 5673804376413752560
+    second: Retro_Master_BigPillarDecoDecal1
+  - first:
+      213: -8533049655695701294
+    second: Retro_Master_BigPillarDecoDecal2
+  - first:
+      213: 4217980782374602697
+    second: Retro_Master_BigPillarDecoDecal3
+  - first:
+      213: 6266409597759778
+    second: Retro_Master_BigPillarDecal3
+  - first:
+      213: 4278472592455896307
+    second: Retro_Master_SmallDoorDecal3
+  - first:
+      213: 2524220601140912069
+    second: Retro_Master_LargeDoorDecal3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -690,8 +777,8 @@ TextureImporter:
       name: Retro_Master_LargeDoor
       rect:
         serializedVersion: 2
-        x: 32
-        y: 1536
+        x: 0
+        y: 944
         width: 80
         height: 64
       alignment: 0
@@ -711,8 +798,8 @@ TextureImporter:
       name: Retro_Master_LargeDoorDecal1
       rect:
         serializedVersion: 2
-        x: 112
-        y: 1536
+        x: 80
+        y: 944
         width: 80
         height: 64
       alignment: 0
@@ -2664,8 +2751,8 @@ TextureImporter:
       name: Retro_Master_LargeDoorDecal2
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1536
+        x: 160
+        y: 944
         width: 80
         height: 64
       alignment: 0
@@ -2895,8 +2982,8 @@ TextureImporter:
       name: Retro_Master_SmallDoor
       rect:
         serializedVersion: 2
-        x: 272
-        y: 1536
+        x: 320
+        y: 944
         width: 32
         height: 64
       alignment: 0
@@ -2916,8 +3003,8 @@ TextureImporter:
       name: Retro_Master_SmallDoorDecal1
       rect:
         serializedVersion: 2
-        x: 304
-        y: 1536
+        x: 352
+        y: 944
         width: 32
         height: 64
       alignment: 0
@@ -2937,8 +3024,8 @@ TextureImporter:
       name: Retro_Master_SmallDoorDecal2
       rect:
         serializedVersion: 2
-        x: 336
-        y: 1536
+        x: 384
+        y: 944
         width: 32
         height: 64
       alignment: 0
@@ -4189,6 +4276,636 @@ TextureImporter:
       bones: []
       spriteID: 166626099386fbd50800000000000000
       internalID: 6755232562523825761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderEye1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3245ff8e27bde58e0800000000000000
+      internalID: -1702682322517666781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderEye2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c4be2ad11e986c0800000000000000
+      internalID: -4140530864986829691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderEye3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e61544717d534850800000000000000
+      internalID: 6360029840640644836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderEye4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff92443a4b522b10800000000000000
+      internalID: 1955225562494705658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderEye5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b75ce6df906940800000000000000
+      internalID: 5287401707969951941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorUnderEye6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb387750365360f0800000000000000
+      internalID: -1124960716286575669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEye1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa6785ba19a3a30800000000000000
+      internalID: 4195826167958645321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEye2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f4c231b8b851e80800000000000000
+      internalID: -8208501316374474890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEye3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36326f3383024e7f0800000000000000
+      internalID: -584306625889295517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_FloorEye4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8512a42bfe81a0800000000000000
+      internalID: -6805225852153524319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallPillarDecal3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1520
+        width: 8
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f77fe0f507f880800000000000000
+      internalID: -8577380432935915268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallPillarRound
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1520
+        width: 8
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a841250cc48cc7ae0800000000000000
+      internalID: -1550143939752618870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallPillarRoundDecal1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1520
+        width: 8
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d04e0160d3e1b6f0800000000000000
+      internalID: -670504385380466474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallPillarRoundDecal2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1520
+        width: 8
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb00e97cdc2da950800000000000000
+      internalID: 6461870365795683300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallPillarRoundDecal3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1520
+        width: 8
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8913e5ca6deea1b30800000000000000
+      internalID: 4258979003414491544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallPillarDeco
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1520
+        width: 8
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39a910d1604b7f80800000000000000
+      internalID: -8107815915303098052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallPillarDecoDecal1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1520
+        width: 8
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f1a11668daf8bd0800000000000000
+      internalID: -2625689265067384984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallPillarDecoDecal2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1520
+        width: 8
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11e983f143425fb0800000000000000
+      internalID: -4660588713837207265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallPillarDecoDecal3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1520
+        width: 8
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c3170a905570f10800000000000000
+      internalID: 2235849239847582848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigPillarRound
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1440
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9e55efdce9d9c90800000000000000
+      internalID: -7161393224876693051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigPillarRoundDecal1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1440
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b7718e42524d560800000000000000
+      internalID: 7337530533336283939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigPillarRoundDecal2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1440
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77be169cf9e27c220800000000000000
+      internalID: 2506022981468285815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigPillarRoundDecal3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1440
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0001af5d9a8940ba0800000000000000
+      internalID: -6123601738110201856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigPillarDeco
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1440
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a82d30acf646870800000000000000
+      internalID: 8675181695660624431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigPillarDecoDecal1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1440
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcc23de4076dbe40800000000000000
+      internalID: 5673804376413752560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigPillarDecoDecal2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1440
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da0d755c84849980800000000000000
+      internalID: -8533049655695701294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigPillarDecoDecal3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1440
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7ccda7c27498a30800000000000000
+      internalID: 4217980782374602697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigPillarDecal3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1440
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221771e2443461000800000000000000
+      internalID: 6266409597759778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallDoorDecal3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 944
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc049e8720306b30800000000000000
+      internalID: 4278472592455896307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeDoorDecal3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 944
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf1ab94345d70320800000000000000
+      internalID: 2524220601140912069
       vertices: []
       indices: 
       edges: []

@@ -9,8 +9,9 @@ using UnityEngine.Tilemaps;
 public class DesignRoomScript : MonoBehaviour
 {
     public ColourThemeSO currentColourTheme;
-    public DecalThemeSO currentDecalTheme;
+    public StyleThemeSO currentStyleTheme;
     public GameObject room;
+    public GameObject objects;
 
     public bool useGradientLights;
     public bool useGradientSecondary;
@@ -139,6 +140,48 @@ public class DesignRoomScript : MonoBehaviour
                             }
                             break;
                     }
+
+                    foreach (Transform childOfChildOfChildOfChild in childOfChildOfChild)
+                    {
+                        switch (childOfChildOfChildOfChild.tag)
+                        {
+                            case "MainColour":
+                                childOfChildOfChildOfChild.GetComponent<SpriteRenderer>().color = currentColourTheme.mainColor;
+                                break;
+
+                            case "SecondaryColour":
+                                switch (useGradientSecondary)
+                                {
+                                    case true:
+                                        Color randColor = currentColourTheme.gradientSecondaryColor.Evaluate(Random.Range(0f, 1f));
+                                        childOfChildOfChildOfChild.GetComponent<SpriteRenderer>().color = randColor;
+                                        break;
+
+                                    case false:
+                                        childOfChildOfChildOfChild.GetComponent<SpriteRenderer>().color = currentColourTheme.secondaryColor;
+                                        break;
+                                }
+                                break;
+
+                            case "ThirdColour":
+                                childOfChildOfChildOfChild.GetComponent<SpriteRenderer>().color = currentColourTheme.thirdColor;
+                                break;
+
+                            case "LightColour":
+                                switch (useGradientLights)
+                                {
+                                    case true:
+                                        Color randColor = currentColourTheme.gradientLightColor.Evaluate(Random.Range(0f, 1f));
+                                        childOfChildOfChildOfChild.GetComponent<SpriteRenderer>().color = randColor;
+                                        break;
+
+                                    case false:
+                                        childOfChildOfChildOfChild.GetComponent<SpriteRenderer>().color = currentColourTheme.lightColor;
+                                        break;
+                                }
+                                break;
+                        }
+                    }
                 }
             }
         }
@@ -146,117 +189,159 @@ public class DesignRoomScript : MonoBehaviour
 
     public void ReDecor()
     {
-        foreach (Transform child in room.transform)
-        {
+        string targetDecal = currentStyleTheme.decalInt;
+        string targetBase = currentStyleTheme.baseStyleTheme;
 
-            switch (child.name)
+        var allChildren = objects.GetComponentsInChildren<Transform>(true);
+            //Debug.Log(child.gameObject.name);
+
+            switch (targetDecal)
             {
-                case string a when a.Contains("Objects"):
-
-                    foreach (Transform childOfChild in child)
+            case "0":
+                foreach (Transform child in allChildren)
+                {
+                    switch (child.name)
                     {
-                        switch (childOfChild.name)
+                        case string one when one.Contains("1"):
+                            child.gameObject.SetActive(false);
+                            break;
+
+                        case string two when two.Contains("2"):
+                            child.gameObject.SetActive(false);
+                            break;
+
+                        case string three when three.Contains("3"):
+                            child.gameObject.SetActive(false);
+                            break;
+                    }
+                }
+                break;
+
+
+            case "1":
+                    foreach (Transform child in allChildren)
+                    {
+                        switch (child.name)
                         {
-                            case string d when d.Contains("Decal"):
-
-                                switch (childOfChild.name)
-                                {
-                                    case string i when i.Contains("Under"):
-
-                                        switch (childOfChild.name)
-                                        {
-                                            case string j when j.Contains("1"):
-                                                childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[4];
-                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[4];
-                                                break;
-                                            case string k when k.Contains("2"):
-                                                childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[5];
-                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[5];
-                                                break;
-                                            case string l when l.Contains("3"):
-                                                childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[6];
-                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[6];
-                                                break;
-                                            case string m when m.Contains("4"):
-                                                childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[7];
-                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[7];
-                                                break;
-                                            case string n when n.Contains("5"):
-                                                childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[8];
-                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[8];
-                                                break;
-                                            case string o when o.Contains("6"):
-                                                childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[9];
-                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[9];
-
-                                                break;
-                                        }
-
-                                        break;
-
-                                    case string p when p.Contains("Top"):
-
-                                        switch (childOfChild.name)
-                                        {
-                                            case string q when q.Contains("1"):
-                                                childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[0];
-                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[0];
-                                                break;
-                                            case string r when r.Contains("2"):
-                                                childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[1];
-                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[1];
-                                                break;
-                                            case string s when s.Contains("3"):
-                                                childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[2];
-                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[2];
-                                                break;
-                                            case string t when t.Contains("4"):
-                                                childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[3];
-                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[3];
-                                                break;
-                                        }
-
-                                        break;
-                                }
+                            case string one when one.Contains("1"):
+                                child.gameObject.SetActive(true);
                                 break;
 
-                            case string e when e.Contains("Pillar"):
-
-                                switch (childOfChild.name)
-                                {
-                                    case string u when u.Contains("Big"):
-                                        childOfChild.Find("Decal").transform.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.bigPillarPattern;
-                                        //childOfChild.Find("Decal").transform.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.bigPillarPattern;
-                                        break;
-
-                                    case string v when v.Contains("Small"):
-                                        childOfChild.Find("Decal").transform.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.smallPillarPattern;
-                                        //childOfChild.Find("Decal").transform.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.smallPillarPattern;
-                                        break;
-                                }
-
+                            case string two when two.Contains("2"):
+                                child.gameObject.SetActive(false);
                                 break;
 
-                            case string f when f.Contains("Door"):
-
-                                switch (childOfChild.name)
-                                {
-                                    case string w when w.Contains("Large"):
-                                        childOfChild.Find("Decal").transform.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.largeDoorPattern;
-                                        //childOfChild.Find("Decal").transform.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.largeDoorPattern;
-                                        break;
-
-                                    case string x when x.Contains("Small"):
-                                        childOfChild.Find("Decal").transform.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.smallDoorPattern;
-                                        //childOfChild.Find("Decal").transform.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.smallDoorPattern;
-                                        break;
-                                }
+                            case string three when three.Contains("3"):
+                                child.gameObject.SetActive(false);
                                 break;
                         }
                     }
                     break;
 
+
+                case "2":
+                foreach (Transform child in allChildren)
+                {
+                    switch (child.name)
+                    {
+                        case string one when one.Contains("1"):
+                            child.gameObject.SetActive(false);
+                            break;
+
+                        case string two when two.Contains("2"):
+                            child.gameObject.SetActive(true);
+                            break;
+
+                        case string three when three.Contains("3"):
+                            child.gameObject.SetActive(false);
+                            break;
+                    }
+                }
+                    break;
+
+                case "3":
+                foreach (Transform child in allChildren)
+                {
+                    switch (child.name)
+                    {
+                        case string one when one.Contains("1"):
+                            child.gameObject.SetActive(false);
+                            break;
+
+                        case string two when two.Contains("2"):
+                            child.gameObject.SetActive(false);
+                            break;
+
+                        case string three when three.Contains("3"):
+                            child.gameObject.SetActive(true);
+                            break;
+                    }
+                }
+                    break;
             }
+
+        switch (targetBase)
+        {
+            case "Simple":
+                foreach (Transform child in allChildren)
+                {
+                    switch (child.name)
+                    {
+                        case string one when one.Contains("Simple"):
+                            child.gameObject.SetActive(true);
+                            break;
+
+                        case string two when two.Contains("Circular"):
+                            child.gameObject.SetActive(false);
+                            break;
+
+                        case string three when three.Contains("Deco"):
+                            child.gameObject.SetActive(false);
+                            break;
+                    }
+                }
+                break;
+
+            case "Circular":
+                foreach (Transform child in allChildren)
+                {
+                    switch (child.name)
+                    {
+                        case string one when one.Contains("Simple"):
+                            child.gameObject.SetActive(false);
+                            break;
+
+                        case string two when two.Contains("Circular"):
+                            child.gameObject.SetActive(true);
+                            break;
+
+                        case string three when three.Contains("Deco"):
+                            child.gameObject.SetActive(false);
+                            break;
+                    }
+                }
+                break;
+
+            case "Deco":
+                foreach (Transform child in allChildren)
+                {
+                    switch (child.name)
+                    {
+                        case string one when one.Contains("Simple"):
+                            child.gameObject.SetActive(false);
+                            break;
+
+                        case string two when two.Contains("Circular"):
+                            child.gameObject.SetActive(false);
+                            break;
+
+                        case string three when three.Contains("Deco"):
+                            child.gameObject.SetActive(true);
+                            break;
+                    }
+                }
+                break;
         }
+
     }
 }
