@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
 using UnityEngine.Tilemaps;
-using UnityEngine.Experimental.Rendering.Universal;
+//using UnityEngine.Experimental.Rendering.Universal;
 
 [ExecuteInEditMode]
 public class DesignRoomScript : MonoBehaviour
@@ -167,27 +167,27 @@ public class DesignRoomScript : MonoBehaviour
                                         {
                                             case string j when j.Contains("1"):
                                                 childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[4];
-                                                childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[4];
+                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[4];
                                                 break;
                                             case string k when k.Contains("2"):
                                                 childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[5];
-                                                childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[5];
+                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[5];
                                                 break;
                                             case string l when l.Contains("3"):
                                                 childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[6];
-                                                childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[6];
+                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[6];
                                                 break;
                                             case string m when m.Contains("4"):
                                                 childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[7];
-                                                childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[7];
+                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[7];
                                                 break;
                                             case string n when n.Contains("5"):
                                                 childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[8];
-                                                childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[8];
+                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[8];
                                                 break;
                                             case string o when o.Contains("6"):
                                                 childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[9];
-                                                childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[9];
+                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[9];
 
                                                 break;
                                         }
@@ -200,19 +200,19 @@ public class DesignRoomScript : MonoBehaviour
                                         {
                                             case string q when q.Contains("1"):
                                                 childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[0];
-                                                childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[0];
+                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[0];
                                                 break;
                                             case string r when r.Contains("2"):
                                                 childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[1];
-                                                childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[1];
+                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[1];
                                                 break;
                                             case string s when s.Contains("3"):
                                                 childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[2];
-                                                childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[2];
+                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[2];
                                                 break;
                                             case string t when t.Contains("4"):
                                                 childOfChild.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.floorPatterns[3];
-                                                childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[3];
+                                                //childOfChild.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.floorPatterns[3];
                                                 break;
                                         }
 
@@ -226,12 +226,12 @@ public class DesignRoomScript : MonoBehaviour
                                 {
                                     case string u when u.Contains("Big"):
                                         childOfChild.Find("Decal").transform.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.bigPillarPattern;
-                                        childOfChild.Find("Decal").transform.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.bigPillarPattern;
+                                        //childOfChild.Find("Decal").transform.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.bigPillarPattern;
                                         break;
 
                                     case string v when v.Contains("Small"):
                                         childOfChild.Find("Decal").transform.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.smallPillarPattern;
-                                        childOfChild.Find("Decal").transform.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.smallPillarPattern;
+                                        //childOfChild.Find("Decal").transform.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.smallPillarPattern;
                                         break;
                                 }
 
@@ -243,12 +243,12 @@ public class DesignRoomScript : MonoBehaviour
                                 {
                                     case string w when w.Contains("Large"):
                                         childOfChild.Find("Decal").transform.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.largeDoorPattern;
-                                        childOfChild.Find("Decal").transform.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.largeDoorPattern;
+                                        //childOfChild.Find("Decal").transform.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.largeDoorPattern;
                                         break;
 
                                     case string x when x.Contains("Small"):
                                         childOfChild.Find("Decal").transform.GetComponent<SpriteRenderer>().sprite = currentDecalTheme.smallDoorPattern;
-                                        childOfChild.Find("Decal").transform.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.smallDoorPattern;
+                                        //childOfChild.Find("Decal").transform.GetComponent<Light2D>().lightCookieSprite = currentDecalTheme.smallDoorPattern;
                                         break;
                                 }
                                 break;
