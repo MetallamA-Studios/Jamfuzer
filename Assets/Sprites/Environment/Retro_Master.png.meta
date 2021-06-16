@@ -626,6 +626,204 @@ TextureImporter:
   - first:
       213: 2524220601140912069
     second: Retro_Master_LargeDoorDecal3
+  - first:
+      213: 466447496308423794
+    second: Retro_Master_SmallBoxCircle
+  - first:
+      213: 1241257197249963712
+    second: Retro_Master_SmallBoxCircleGlow
+  - first:
+      213: -4952513629118359409
+    second: Retro_Master_MediumBoxCircle
+  - first:
+      213: 787178806847404361
+    second: Retro_Master_MediumBoxCircleGlow
+  - first:
+      213: -4489579816318988750
+    second: Retro_Master_LargeBoxCircle
+  - first:
+      213: -5565461195885126712
+    second: Retro_Master_LargeBoxCircleGlow
+  - first:
+      213: -462614866073632943
+    second: Retro_Master_LargeDoorCircular
+  - first:
+      213: 835398288933558399
+    second: Retro_Master_StairsSide
+  - first:
+      213: 2296335644408841741
+    second: Retro_Master_LargeDoorCircularDecal1
+  - first:
+      213: -843136959446908410
+    second: Retro_Master_LargeDoorCircularDecal2
+  - first:
+      213: -1087291686967180702
+    second: Retro_Master_LargeDoorCircularDecal3
+  - first:
+      213: -7950871976320150756
+    second: Retro_Master_LargeDoorDeco
+  - first:
+      213: 6115910693209762969
+    second: Retro_Master_LargeDoorDecoDecal1
+  - first:
+      213: 6441296472903001399
+    second: Retro_Master_LargeDoorDecoDecal2
+  - first:
+      213: -8689834186915928812
+    second: Retro_Master_LargeDoorDecoDecal3
+  - first:
+      213: 4129682463803849334
+    second: Retro_Master_SmallDoorCircular
+  - first:
+      213: -7765735319132420910
+    second: Retro_Master_SmallDoorCircularDecal1
+  - first:
+      213: 5813958546818334285
+    second: Retro_Master_SmallDoorCircularDecal2
+  - first:
+      213: 7207638255397388169
+    second: Retro_Master_SmallDoorCircularDecal3
+  - first:
+      213: -675583958506359732
+    second: Retro_Master_SmallDoorDeco
+  - first:
+      213: -8109998025938095201
+    second: Retro_Master_SmallDoorDecoDecal1
+  - first:
+      213: 6362162979334879614
+    second: Retro_Master_SmallDoorDecoDecal2
+  - first:
+      213: -6900336475621081659
+    second: Retro_Master_SmallDoorDecoDecal3
+  - first:
+      213: -4952513629118359409
+    second: Retro_Master_MediumBoxCircle
+  - first:
+      213: -4489579816318988750
+    second: Retro_Master_LargeBoxCircle
+  - first:
+      213: 7426593640582757842
+    second: Retro_Master_SmallBoxCircle
+  - first:
+      213: 7672196992766051487
+    second: Retro_Master_SmallBoxCircleGlow
+  - first:
+      213: 787178806847404361
+    second: Retro_Master_MediumBoxCircleGlow
+  - first:
+      213: -4489579816318988750
+    second: Retro_Master_MediumBoxCircle
+  - first:
+      213: 1155356467332096779
+    second: Retro_Master_BigWindow
+  - first:
+      213: 2543967167242897228
+    second: Retro_Master_LargeBoxCircle
+  - first:
+      213: 3140022784287555774
+    second: Retro_Master_LargeWindow
+  - first:
+      213: -3407998713346795317
+    second: Retro_Master_TallWindow
+  - first:
+      213: -2784762888819527658
+    second: Retro_Master_LongWindow
+  - first:
+      213: 3713308145192879323
+    second: Retro_Master_SmallWindow
+  - first:
+      213: -2767330638175219155
+    second: Retro_Master_TinyWindow
+  - first:
+      213: 3169636468145652778
+    second: Retro_Master_LargeWindowGlass
+  - first:
+      213: 5363294919373275833
+    second: Retro_Master_BigWindowGlass
+  - first:
+      213: 6489171041878034545
+    second: Retro_Master_TallWindowGlass
+  - first:
+      213: 7649698387147603302
+    second: Retro_Master_LongWindowGlass
+  - first:
+      213: 1550104086150414540
+    second: Retro_Master_SmallWIndowGlass
+  - first:
+      213: 2264466928097925995
+    second: Retro_Master_TinyWindowGlass
+  - first:
+      213: -6289248312228007886
+    second: Retro_Master_LargeWindowCircular
+  - first:
+      213: -6122438697532726755
+    second: Retro_Master_LargeWindowDeco
+  - first:
+      213: -424683369941973288
+    second: Retro_Master_LargeWindowCircularGlass
+  - first:
+      213: -1926987467804292343
+    second: Retro_Master_LargeWindowDecoGlass
+  - first:
+      213: 8433225029179165321
+    second: Retro_Master_BigWindowCircular
+  - first:
+      213: 626574959007627629
+    second: Retro_Master_BigWindowDeco
+  - first:
+      213: -3339523377715803299
+    second: Retro_Master_BigWindowCircularGlass
+  - first:
+      213: 719600315736885141
+    second: Retro_Master_BigWindowDecoGlass
+  - first:
+      213: -379761123920352027
+    second: Retro_Master_TallWindowCircular
+  - first:
+      213: -1746252888937422485
+    second: Retro_Master_TallWindowDeco
+  - first:
+      213: 3876443216998216605
+    second: Retro_Master_TallWindowCircularGlass
+  - first:
+      213: -3597142033161555851
+    second: Retro_Master_TallWindowDecoGlass
+  - first:
+      213: -3869654529044702558
+    second: Retro_Master_LongWindowCircular
+  - first:
+      213: 2554809194888781553
+    second: Retro_Master_LongWindowCircularGlass
+  - first:
+      213: -9181117112418590996
+    second: Retro_Master_LongWindowDeco
+  - first:
+      213: 7779439608795839624
+    second: Retro_Master_LongWindowDecoGlass
+  - first:
+      213: -1209794173553686189
+    second: Retro_Master_SmallWindowCircular
+  - first:
+      213: -9186275934047870241
+    second: Retro_Master_SmallWindowCircularGlass
+  - first:
+      213: 117665216071358551
+    second: Retro_Master_SmallWindowDeco
+  - first:
+      213: 8963549085788617606
+    second: Retro_Master_SmallWindowDecoGlass
+  - first:
+      213: 7234111305155452475
+    second: Retro_Master_TinyWindowCircular
+  - first:
+      213: -7046212992716481784
+    second: Retro_Master_TinyWindowCircularGlass
+  - first:
+      213: -2846868499749495754
+    second: Retro_Master_TinyWindowDeco
+  - first:
+      213: -655485405579822652
+    second: Retro_Master_TinyWindowDecoGlass
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -665,7 +863,7 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
+  spriteExtrude: 0
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
@@ -3465,7 +3663,7 @@ TextureImporter:
       name: Retro_Master_LargeBoxGlow
       rect:
         serializedVersion: 2
-        x: 64
+        x: 96
         y: 1120
         width: 32
         height: 64
@@ -3486,7 +3684,7 @@ TextureImporter:
       name: Retro_Master_LargeBoxDecorGlow
       rect:
         serializedVersion: 2
-        x: 96
+        x: 128
         y: 1120
         width: 32
         height: 64
@@ -3507,7 +3705,7 @@ TextureImporter:
       name: Retro_Master_MediumBoxGlow
       rect:
         serializedVersion: 2
-        x: 48
+        x: 72
         y: 1072
         width: 24
         height: 48
@@ -3528,7 +3726,7 @@ TextureImporter:
       name: Retro_Master_MediumBoxDecorGlow
       rect:
         serializedVersion: 2
-        x: 72
+        x: 96
         y: 1072
         width: 24
         height: 48
@@ -3549,7 +3747,7 @@ TextureImporter:
       name: Retro_Master_SmallBoxGlow
       rect:
         serializedVersion: 2
-        x: 32
+        x: 48
         y: 1040
         width: 16
         height: 32
@@ -3570,7 +3768,7 @@ TextureImporter:
       name: Retro_Master_SmallBoxDecorGlow
       rect:
         serializedVersion: 2
-        x: 48
+        x: 64
         y: 1040
         width: 16
         height: 32
@@ -3966,132 +4164,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Retro_Master_SmallBoxDiagonal
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 1040
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 90917581a2d33c1f0800000000000000
-      internalID: -1025909039104059127
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Retro_Master_SmallBoxDiagonalGlow
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 1040
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 211300601b92e8940800000000000000
-      internalID: 5300219651748278546
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Retro_Master_MediumBoxDiagonal
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 1072
-        width: 32
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 671dfb2401ef2c3a0800000000000000
-      internalID: -6646470754252631690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Retro_Master_MediumBoxDiagonalGlow
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 1072
-        width: 32
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4705cbf8acfd4320800000000000000
-      internalID: 2543967167242897228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Retro_Master_LargeBoxDiagonal
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 1120
-        width: 48
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb0c714f51a939b20800000000000000
-      internalID: 3140022784287555774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Retro_Master_LargeBoxDiagonalGlow
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 1120
-        width: 48
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f789ad1515ee79b00800000000000000
-      internalID: 835398288933558399
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Retro_Master_FloorSquareOne
       rect:
         serializedVersion: 2
@@ -4201,7 +4273,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 1360
+        y: 1344
         width: 16
         height: 16
       alignment: 0
@@ -4906,6 +4978,1308 @@ TextureImporter:
       bones: []
       spriteID: 5cf1ab94345d70320800000000000000
       internalID: 2524220601140912069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_155
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1040
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c75dbc687297600800000000000000
+      internalID: 466447496308423794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_156
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1072
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c62bfc28d4d93110800000000000000
+      internalID: 1241257197249963712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_157
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1040
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f889e170813254bb0800000000000000
+      internalID: -4952513629118359409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_MediumBoxCircleGlow
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1072
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949fad444fe9cea00800000000000000
+      internalID: 787178806847404361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_MediumBoxCircle
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1072
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e0b81a1fec1b1c0800000000000000
+      internalID: -4489579816318988750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeBoxCircleGlow
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1120
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbdb08878283c2b0800000000000000
+      internalID: -5565461195885126712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_StairsSide
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f789ad1515ee79b00800000000000000
+      internalID: 835398288933558399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeDoorCircular
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fbdd7fa367499f0800000000000000
+      internalID: -462614866073632943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeDoorCircularDecal1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 880
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d068e022a193edf10800000000000000
+      internalID: 2296335644408841741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeDoorCircularDecal2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 880
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6020a2b07639c44f0800000000000000
+      internalID: -843136959446908410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeDoorCircularDecal3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 880
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262061fa8f929e0f0800000000000000
+      internalID: -1087291686967180702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeDoorDeco
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1354d42014d8a190800000000000000
+      internalID: -7950871976320150756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeDoorDecoDecal1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 816
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ce7ca3f5410e450800000000000000
+      internalID: 6115910693209762969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeDoorDecoDecal2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 816
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7352c50c305146950800000000000000
+      internalID: 6441296472903001399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeDoorDecoDecal3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 816
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415a4d309d1876780800000000000000
+      internalID: -8689834186915928812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallDoorCircular
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 880
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a303222549f4930800000000000000
+      internalID: 4129682463803849334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallDoorCircularDecal1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 880
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d448633fd09a3490800000000000000
+      internalID: -7765735319132420910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallDoorCircularDecal2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 880
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ef3f1ae745fa050800000000000000
+      internalID: 5813958546818334285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallDoorCircularDecal3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 880
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f3a7a3ecca60460800000000000000
+      internalID: 7207638255397388169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallDoorDeco
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 816
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b64918f7df96f0800000000000000
+      internalID: -675583958506359732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallDoorDecoDecal1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 816
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9337d693cf737f80800000000000000
+      internalID: -8109998025938095201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallDoorDecoDecal2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 816
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7975628581fa4850800000000000000
+      internalID: 6362162979334879614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallDoorDecoDecal3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 816
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd3fe3f8841d30a0800000000000000
+      internalID: -6900336475621081659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallBoxCircle
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1040
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd3c1e719f801760800000000000000
+      internalID: 7426593640582757842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallBoxCircleGlow
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1040
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9404a0148e197a60800000000000000
+      internalID: 7672196992766051487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeBoxCircle
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1120
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4705cbf8acfd4320800000000000000
+      internalID: 2543967167242897228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeWindow
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1344
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0c714f51a939b20800000000000000
+      internalID: 3140022784287555774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigWindow
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03a740f596a80010800000000000000
+      internalID: 1155356467332096779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_TallWindow
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1344
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8d9fff93b54b0d0800000000000000
+      internalID: -3407998713346795317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LongWindow
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1328
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610b83c28e88a59d0800000000000000
+      internalID: -2784762888819527658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallWindow
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1328
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd449c78512588330800000000000000
+      internalID: 3713308145192879323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_TinyWindow
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22d28f42777899d0800000000000000
+      internalID: -2767330638175219155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeWindowGlass
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1296
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2402f6039fccfb20800000000000000
+      internalID: 3169636468145652778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigWindowGlass
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2c6ee20504e6a40800000000000000
+      internalID: 5363294919373275833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_TallWindowGlass
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1296
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17844e57eaa2e0a50800000000000000
+      internalID: 6489171041878034545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LongWindowGlass
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1280
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dbfcc3720392a60800000000000000
+      internalID: 7649698387147603302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallWIndowGlass
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1280
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc080eb1473138510800000000000000
+      internalID: 1550104086150414540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_TinyWindowGlass
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b95e66ca00d6f10800000000000000
+      internalID: 2264466928097925995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeWindowCircular
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1344
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230bc6d5bf918b8a0800000000000000
+      internalID: -6289248312228007886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeWindowDeco
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1344
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12e472517ab80ba0800000000000000
+      internalID: -6122438697532726755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeWindowCircularGlass
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1296
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6c790a9b83b1af0800000000000000
+      internalID: -424683369941973288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LargeWindowDecoGlass
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1296
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b45ee8b17f145e0800000000000000
+      internalID: -1926987467804292343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigWindowCircular
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a482f9b75d80570800000000000000
+      internalID: 8433225029179165321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigWindowDeco
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69fdc00b9a02b800800000000000000
+      internalID: 626574959007627629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigWindowCircularGlass
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b03287e21a7a1d0800000000000000
+      internalID: -3339523377715803299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_BigWindowDecoGlass
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59781cfaca88cf900800000000000000
+      internalID: 719600315736885141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_TallWindowCircular
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1344
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec69351541dabaf0800000000000000
+      internalID: -379761123920352027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_TallWindowDeco
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1344
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61a2e2ef3014c7e0800000000000000
+      internalID: -1746252888937422485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_TallWindowCircularGlass
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1296
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93b62d4194ebc530800000000000000
+      internalID: 3876443216998216605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_TallWindowDecoGlass
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1296
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57077ca1162641ec0800000000000000
+      internalID: -3597142033161555851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LongWindowCircular
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1328
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa1fc845b93c4ac0800000000000000
+      internalID: -3869654529044702558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LongWindowCircularGlass
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe5f324d61847320800000000000000
+      internalID: 2554809194888781553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LongWindowDeco
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1328
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee970141ae169080800000000000000
+      internalID: -9181117112418590996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_LongWindowDecoGlass
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1280
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c31e16b1f16fb60800000000000000
+      internalID: 7779439608795839624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallWindowCircular
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1328
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359cef1eb92f53fe0800000000000000
+      internalID: -1209794173553686189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallWindowCircularGlass
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1280
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd26b5e75bac38080800000000000000
+      internalID: -9186275934047870241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallWindowDeco
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1328
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7585a5ef3e702a100800000000000000
+      internalID: 117665216071358551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_SmallWindowDecoGlass
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1280
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b3531176ce46c70800000000000000
+      internalID: 8963549085788617606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_TinyWindowCircular
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e9d6177e9b46460800000000000000
+      internalID: 7234111305155452475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_TinyWindowCircularGlass
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b54659d92d63e90800000000000000
+      internalID: -7046212992716481784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_TinyWindowDeco
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c9e2ece24ed78d0800000000000000
+      internalID: -2846868499749495754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_Master_TinyWindowDecoGlass
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c936fc1f7f37e6f0800000000000000
+      internalID: -655485405579822652
       vertices: []
       indices: 
       edges: []

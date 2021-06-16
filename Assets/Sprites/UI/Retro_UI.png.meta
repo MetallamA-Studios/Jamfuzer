@@ -28,10 +28,10 @@ TextureImporter:
     second: Retro_UI_Boss
   - first:
       213: -4299386148690529830
-    second: Retro_UI_8
+    second: Retro_UI_BioOverlay
   - first:
       213: 7909378285333434838
-    second: Retro_UI_9
+    second: Retro_UI_PhysicalIcon
   - first:
       213: -7716315032090517703
     second: Retro_UI_Note
@@ -70,13 +70,13 @@ TextureImporter:
     second: Retro_UI_Elite
   - first:
       213: 1880018614188248029
-    second: Retro_UI_6
+    second: Retro_UI_PhysicalOverlay
   - first:
       213: -945486575519374325
     second: Retro_UI_BoxDetailed
   - first:
       213: -2186691855310721714
-    second: Retro_UI_11
+    second: Retro_UI_BioIcon
   - first:
       213: -1821406573902943286
     second: Retro_UI_HealIcon
@@ -241,22 +241,22 @@ TextureImporter:
     second: Retro_UI_Elite
   - first:
       213: -8308609364062486901
-    second: Retro_UI_6
+    second: Retro_UI_PhysicalOverlay
   - first:
       213: 4910948672273908177
     second: Retro_UI_Boss
   - first:
       213: -8828280710228693498
-    second: Retro_UI_8
+    second: Retro_UI_BioOverlay
   - first:
       213: -5361967826260920711
-    second: Retro_UI_9
+    second: Retro_UI_PhysicalIcon
   - first:
       213: 6442245782052121703
     second: Retro_UI_BoxDetailed
   - first:
       213: -4200710993444840462
-    second: Retro_UI_11
+    second: Retro_UI_BioIcon
   - first:
       213: 1210264590269509444
     second: Retro_UI_HealIcon
@@ -307,7 +307,13 @@ TextureImporter:
     second: Retro_UI_58
   - first:
       213: -3898294078304472794
-    second: Retro_UI_5
+    second: Retro_UI_EnergyOverlay
+  - first:
+      213: -8308609364062486901
+    second: Retro_UI_EnergyIcon
+  - first:
+      213: 6442245782052121703
+    second: Retro_UI_BoxDetailed
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -739,6 +745,132 @@ TextureImporter:
       bones: []
       spriteID: 54bb11dad86977400800000000000000
       internalID: 321891433618455365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_UI_EnergyOverlay
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 16, z: 19, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62137a8903a76e9c0800000000000000
+      internalID: -3898294078304472794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_UI_PhysicalOverlay
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 14, z: 22, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb00d508fa271a10800000000000000
+      internalID: 1880018614188248029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_UI_BioOverlay
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 16, z: 23, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1f01fa3138554c0800000000000000
+      internalID: -4299386148690529830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_UI_EnergyIcon
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e3295edc3e1bc80800000000000000
+      internalID: -8308609364062486901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_UI_PhysicalIcon
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1dc7315a1c3cd60800000000000000
+      internalID: 7909378285333434838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro_UI_BioIcon
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4de6fad75f47a1e0800000000000000
+      internalID: -2186691855310721714
       vertices: []
       indices: 
       edges: []
