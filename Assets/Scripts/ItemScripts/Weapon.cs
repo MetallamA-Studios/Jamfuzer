@@ -24,9 +24,13 @@ public class Weapon : ScriptableObject
 
     public string s_weaponDescription;
 
-    public string s_weaponAttackName;
+    public string s_weaponPrimaryAttackName;
+    public string s_weaponSecondaryAttackName;
+    public string s_weaponMeleeAttackName;
 
-    public string s_weaponAttackDescription;
+    public string s_weaponPrimaryAttackDescription;
+    public string s_weaponSecondaryAttackDescription;
+    public string s_weaponMeleeAttackDescription;
 
     public int i_ammoMax;
     public int i_currentAmmo;
