@@ -715,7 +715,7 @@ MonoBehaviour:
   m_Sprite: {fileID: 1229887995773414200, guid: e1d9a22bbb1a5894c899a3f08e2e2e5e,
     type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1796,7 +1796,7 @@ MonoBehaviour:
   m_Sprite: {fileID: 1229887995773414200, guid: e1d9a22bbb1a5894c899a3f08e2e2e5e,
     type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -3937,7 +3937,7 @@ MonoBehaviour:
   m_Sprite: {fileID: 1229887995773414200, guid: e1d9a22bbb1a5894c899a3f08e2e2e5e,
     type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
