@@ -15,13 +15,20 @@ public enum BattleState
 public class BattleSystem : MonoBehaviour
 {
     #region Public Variables
-    public BattleState currentState;
+    public BattleState bs_currentState;
+
+    public BattleSystemUI bsui_ui;
     #endregion
+
+    private void Start()
+    {
+        bs_currentState = BattleState.Start;
+    }
 
 
     void StartCombat(PlayerProfile player, PlayerProfile[] enemies)
     {
-        currentState = BattleState.Start;
+        bs_currentState = BattleState.Start;
 
 
     }
